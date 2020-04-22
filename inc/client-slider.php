@@ -20,6 +20,8 @@
       <div class="slide"><img src="img/17.jpg"></div>
    </section>
 </div>
+
+<br><br>
 <script>
 	$(document).ready(function(){
     $('.customer-logos').slick({
