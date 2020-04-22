@@ -7,10 +7,10 @@
             <div class="col-md-2 col-sm-1"></div>
             <div class="col-md-8 col-sm-10">
                 <div class="intro-text center bottom15 wow fadeInUp">
-                    <span class="heading-title bottom25">what we offer our clients</span>
-                    <h2 class="darkcolor bottom45">Graphic design, Web development & Digital marketing</h2>
+                    <span class="heading-title bottom25">Meet Apex Digital</span>
+                    <h2 class="darkcolor bottom45">We are focused on developing brands online</h2>
                     <p class="bottom45">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday. Fonts, just like images, play an important role in helping a website’s overall design stand out from the competition. </p>
-                    <!-- <a href="javascript:void(0)" class="button default">choose your best</a> -->
+                    <a href="javascript:void(0)" class="button default">REQUEST A QUOTE</a>
                 </div>
             </div>
             <div class="col-md-2 col-sm-1"></div>

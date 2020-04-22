@@ -1,5 +1,5 @@
 <div class="container">
-  <h2 class="client-slider">Our Clients and Partners</h2>
+  <h2 class="client-slider">Our Clients and Partners</h2><br>
    <section class="customer-logos slider">
       <div class="slide"><img src="img/1.jpg"></div>
       <div class="slide"><img src="img/2.png"></div>

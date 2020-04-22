@@ -246,7 +246,7 @@
 
 <!--Testimonials with background ends-->
 
-<?php include 'inc/testimonial1.php'?>
+
 
 <!--LOGOS / Partners-->
 

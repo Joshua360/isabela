@@ -1,38 +1,3 @@
-<?php include 'inc/header.php'?>
-<!-- Main-Navigation ends -->
-
-   
-<!--Ful Screen Section Video with caption-->
-<section class="full-screen caption-video caption-video-five parallaxie" id="ourhome">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-2 col-sm-1"></div>
-         <div class="col-md-8 col-sm-10">
-            <div class="center-block text-center">
-               <div class="center-item">
-                  <!--Video Button-->
-                  <div class="wow zoomIn">
-                     <a href="" class="video-btn html5lightbox"><i class="fa fa-play"></i></a>
-                  </div>
-                  <div class="wow fadeInUp">
-                     <h2 class="text-capitalize top50 bottom35  whitecolor">We are a creative digital firm
-                        that helps launch iconic brands online</span></h2>
-                     <p class="bottom45" style="color:white;">Play the video to see what we do in action.</p>
-                     <a href="#services-three" class="button default scroll">our services</a> &nbsp; <a href="javascript:void(0)" class="button whitehole">request a quote</a>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-2 col-sm-1"></div>
-      </div>
-   </div>
-</section>
-<!--Ful Screen Section Video ends-->
-
-<?php include 'inc/service1.php'?>
-<!--Services 3 column ends-->
-
-
 <!--Gallery Grid-->
 <section id="our-portfolio" class="padding_top">
    <div class="container">
@@ -206,19 +171,3 @@
       </div>
    </div>
 </section>
-<!--Gallery Ends-->
-
-
-
-<!--Team 02 Slider-->
-<?php include 'inc/team.php'?>
-<!-- Team slider ends -->
-
-
-<!--LOGOS / Partners-->
-<?php include'inc/client-slider.php'?>
-<br><br>
-<!--LOGOS / Partners ends-->
-
-
-<?php include'inc/footer.php'?>

@@ -745,7 +745,7 @@ ul.social.dark li a:focus{
    background: url(../images/bgintro-light.jpg) no-repeat;
 }
 .bgintro-five{
-   background: url(../images/bgintro-five.jpg) no-repeat;
+   background: url(../images/bg-video-five.jpg) no-repeat;
 }
 .bgintro-seven{
    background: url(../images/bgintro-seven.jpg) no-repeat;
@@ -1456,7 +1456,7 @@ ul.top-right li a:hover.instagram{
     /*video & Image BAnners Starts */
 /*-------------------------------*/
 .caption-video{
-    background: url(../images/bg-video3.jpg) no-repeat;
+    background: url(../images/bg-video3.png) no-repeat;
 }
 .personal-banner{
    background: url(../images/bg-personal.jpg) no-repeat;
