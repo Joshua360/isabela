@@ -6,7 +6,7 @@
   
 <div class="col-xs-12 col-sm-6 col-md-3">
 <div class="widget subscribe no-box">
-<h5 class="widget-title">APEX DIGITAL<span></span></h5>
+<h5 class="widget-title"><a href="index.php">APEX DIGITAL</a><span></span></h5>
 <p>Apex Digital is a Graphics design, digital Marketing and web development company.</p>
 </div>
 </div>
@@ -27,9 +27,9 @@
 <li>
 <div class="thumb-content"><a href="ourgallery.php">Our Porfolio</a></div>	
 </li>
-<li>
+<!-- <li>
 <div class="thumb-content"><a href="#">Our Blog</a></div>	
-</li>
+</li> -->
 
 <li>
 <div class="thumb-content"><a href="about.php">About Us</a></div>	
@@ -41,15 +41,15 @@
 <div class="col-xs-12 col-sm-6 col-md-3">
 <div class="widget no-box">
 <h5 class="widget-title">Get started<span></span></h5>
-<p>Pick the service you need and that's it.</p>
-<a class="btn" href="#." target="_blank">Request Quote</a>
+<p>Wanna Get Started On Your Project?</p>
+<a class="btn" href="contact.php">REQUEST A QUOTE</a>
 </div>
 </div>
 
 <div class="col-xs-12 col-sm-6 col-md-3">
 
 <div class="widget no-box">
-<h5 class="widget-title">Contact Us<span></span></h5>
+<h5 class="widget-title">Email Us<span></span></h5>
 
 <p><a href="mailto:apexgdd@gail.com" title="glorythemes">apexgdd@gail.com</a></p>
 <ul class="social-footer2">

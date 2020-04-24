@@ -9,8 +9,8 @@
                 <div class="intro-text center bottom15 wow fadeInUp">
                     <span class="heading-title bottom25">Meet Apex Digital</span>
                     <h2 class="darkcolor bottom45">We are focused on developing brands online</h2>
-                    <p class="bottom45">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs. yesterday. Fonts, just like images, play an important role in helping a website’s overall design stand out from the competition. </p>
-                    <a href="javascript:void(0)" class="button default">REQUEST A QUOTE</a>
+                    <p class="bottom45">We are a digital marketing, graphics design and Web development and management agency based in Nairobi. Our team is a combination of skilled graphic designers, web developers, and digital marketers.</p>
+                    <a href="contact.php" class="button default">REQUEST A QUOTE</a>
                 </div>
             </div>
             <div class="col-md-2 col-sm-1"></div>
@@ -21,8 +21,8 @@
                     <i class="fa fa-paint-brush"></i>
                     <div class="cell">
                         <h4 class="darkcolor bottom10"><strong>Graphic design</strong></h4>
-                        <p class="bottom25">When Google announced they were joining the web font game with Google Fonts, it was a game changer.</p>
-                        <a href="javascript:void(0)" class="underlined">read more</a>
+                        <p class="bottom25">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.</p>
+                        <a href="graphic-design.php" class="underlined">view more</a>
                     </div>
                 </div>
             </div>
@@ -31,8 +31,8 @@
                     <i class="fa fa-code"></i>
                     <div class="cell">
                         <h4 class="darkcolor bottom10"><strong>Web development</strong></h4>
-                        <p class="bottom25">When Google announced they were joining the web font game with Google Fonts, it was a game changer.</p>
-                        <a href="javascript:void(0)" class="underlined">read more</a>
+                        <p class="bottom25">We design and develop responsive websites with clear and easy to interact User interphase UI and a well planned User experience.</p>
+                        <a href="web-development.php" class="underlined">view more</a>
                     </div>
                 </div>
             </div>
@@ -41,8 +41,9 @@
                     <i class="fa fa-bullhorn"></i>
                     <div class="cell">
                         <h4 class="darkcolor bottom10"><strong>Digital marketing</strong></h4>
-                        <p class="bottom25">When Google announced they were joining the web font game with Google Fonts, it was a game changer.</p>
-                        <a href="javascript:void(0)" class="underlined">read more</a>
+                        <p class="bottom25">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.
+                        </p>
+                        <a href="digital-marketing.php" class="underlined">view more</a>
                     </div>
                 </div>
             </div>
