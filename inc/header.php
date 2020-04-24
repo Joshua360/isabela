@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <title>Apex Digital Graphics Design and Digital Marketing</title>
-
+<script src="https://kit.fontawesome.com/b0f7600cd1.js" crossorigin="anonymous"></script>
 <!-- main styling file  -->
 <!-- 
 <link rel="stylesheet" href="css/owl.carousel.css">
@@ -68,7 +68,7 @@
                          <span class="icon-bar middle-bar"></span> 
                          <span class="icon-bar bottom-bar"></span> 
                      </button>
-                     <a class="navbar-brand logo-center" href="index.html">
+                     <a class="navbar-brand logo-center" href="index.php">
                        <img src="img/new-logo.png" alt="logo" class="logo">
                        <img src="img/new-logo.png" alt="logo" class="scrolled-logo">
                       </a>

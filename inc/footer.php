@@ -42,7 +42,7 @@
 <div class="widget no-box">
 <h5 class="widget-title">Get started<span></span></h5>
 <p>Wanna Get Started On Your Project?</p>
-<a class="btn" href="contact.php">REQUEST A QUOTE</a>
+<a class="btn" href="request-a-quote.php">REQUEST A QUOTE</a>
 </div>
 </div>
 
@@ -75,23 +75,7 @@ echo $year;?> All rights reserved.</p>
 </div>
 </footer>
 
-<!--Footer-->
-<!-- <footer class="bgdefault padding_half">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-12 col-sm-12 text-center">
-            <ul class="social white wow bounceIn">
-               <li><a href="https://www.facebook.com/ApexGdd/" target="_blank"><i class="fa fa-facebook"></i> </a> </li>
-               <li><a href="https://www.instagram.com/invites/contact/?i=9j8k3jzv8hnc&utm_content=egpjgf7" target="_blank"><i class="fa fa-instagram"></i> </a> </li>
-               <li><a href="https://twitter.com/Apex_GraphicsKe?s=09" target="_blank"><i class="fa fa-twitter"></i> </a> </li>
 
-            </ul>
-            <p class="whitecolor top30 wow fadeInUp">Copyright &copy; 2020 Apex Digital. All rights reserved.</p>
-         </div>
-      </div>
-   </div>
-</footer> -->
-<!--Footer ends-->
 </div>
 
 
