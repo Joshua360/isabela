@@ -57,7 +57,7 @@
          </div>
          <div class="col-md-6 nopadding">
             <div class="image">
-               <img alt="image" src="apex/wall.jpg" class="equalheight">
+               <img alt="image" src="apex/new-wall.jpg" class="equalheight">
             </div>
          </div>
       </div>
@@ -92,7 +92,7 @@
 
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top50 wow fadeInUp">
-               <i class="fa fa-umbrella"></i>
+            <i class="fas fa-palette"></i>
                <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Graphic design</a></h4>
                <hr>
                <p class="no_bottom">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.</p>
@@ -100,7 +100,7 @@
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top50 wow fadeInUp">
-               <i class="fa fa-bar-chart"></i>
+               <i class="fa fa-code"></i>
                <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Web development</a></h4>
                <hr>
                <p class="no_bottom">We design and develop responsive websites with clear and easy to interact User interphase UI and a well planned User experience.</p>
@@ -108,7 +108,7 @@
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top50 wow fadeInUp">
-               <i class="fa fa-laptop"></i>
+            <i class="fas fa-ad"></i>
                <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Digital Marketing</a></h4>
                <hr>
                <p class="no_bottom">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.</p>
@@ -129,7 +129,7 @@
                 <div class="intro-text wow fadeInLeft">
                    <span class="heading-title bottom25">Why Choose Us</span>
                    <h2 class="darkcolor bottom45">We pride oursleves with the culture of providing nothing less than the desired</h2>
-                   <p>In all we do, we always look forward to exeeding our clients' needs. Our prices are relatively affordable, negotiable & they for sure match the quality.</p>
+                   <p>We stand out with our mobility i.e we are able to sort our customers virtually without having to meet them. Just contact us and we will sort you.Our prices are negotiable and they for sure match the quality.</p>
                    <div class="bars-custom top50">
                       <div class="barwrapper">
                          <!-- <span class="progressText">Coding</span>

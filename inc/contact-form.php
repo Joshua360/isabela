@@ -6,7 +6,7 @@
          <div class="row">
             <div class="col-md-12 col-sm-12">
                <div class="form-group bottom45">
-                  <input class="form-control" type="text" placeholder="Your name" required>
+                  <input class="form-control" type="text" placeholder="Your Name" required>
                </div>
             </div>
             <div class="col-md-12 col-sm-12">

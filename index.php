@@ -12,12 +12,15 @@
                <div class="center-item">
                   <!--Video Button-->
                   <div class="wow zoomIn">
-                     <a href="#" class="video-btn html5lightbox"><i class="fa fa-play"></i></a>
+                  <!-- <p class="bottom45" style="color:white;">Wanna see what we do?</p> -->
+
+                  <p class="bottom45" style="color:white;">PLAY VIDEO TO SEE WHAT WE DO</p>
+
+                     <a href="apex/intro.mp4" class="video-btn html5lightbox"><i class="fa fa-play"></i></a>
                   </div>
                   <div class="wow fadeInUp">
-                     <h2 class="text-capitalize top50 bottom35  whitecolor">We are a creative digital firm
-                        that helps launch iconic brands online</span></h2>
-                     <p class="bottom45" style="color:white;">Play the video to see what we do in action.</p>
+                     <h2 class="text-capitalize top50 bottom35  whitecolor">We help businesses launch iconic brands online</span></h2>
+                     <!-- <p class="bottom45" style="color:white;">PLAY VIDEO</p> -->
                      <a href="#services-three" class="button default scroll">our services</a> &nbsp; <a href="request-a-quote.php" class="button whitehole">request a quote</a>
                   </div>
                </div>

@@ -4,10 +4,9 @@
          <div class="col-md-5 col-sm-8 col-xs-11">
             <div class="item-titles whitecolor wow fadeInLeft">
                <h3 class="bottom10">
-                  <a data-fancybox="group-three" href="graphic-design.php">Graphic <strong>Design</strong></a>
+                  <a style="color:black;" data-fancybox="group-three" href="graphic-design.php">Graphic <strong>Design</strong></a>
                </h3>
-               <p>The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today just like.</p>
-               <p>nature, shore, stars.</p>
+               <p style="color:black;">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today just like.</p>
                <a class="button darkhole top40"href="graphic-design.php">View More</a>
             </div>
          </div>
