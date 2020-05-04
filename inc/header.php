@@ -23,13 +23,6 @@
 
 <link rel="icon" href="img/favicon.png">
 
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!-- [if lt IE 9]> -->
-          <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<!-- <![endif] -->
-
    <!--Start of Tawk.to Script-->
    <script type="text/javascript">
    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -79,18 +72,18 @@
               
                            <li><a class="scrollings" href="index.php">Home</a></li>
 
-                           <li><a class="scrollings" href="services.php">Services</a></li>
+                           <li><a class="scrollings" href="services.php">Our Services</a></li>
 
 
-                           <li><a class="scrollings" href="about.php">About</a></li>
+                           <li><a class="scrollings" href="about.php">About Us</a></li>
                            <!-- <li><a class="scrollings" href="#team">Team</a> </li> -->
                         </ul>
                      </div>
                      <div class="navbar-right-1">
                         <ul class="nav navbar-nav navbar-right">
                            <!-- <li><a href="#ourinfo" class="scrollings">Blog</a></li> -->
-                           <li><a class="scrollings" href="ourgallery.php">Portfolio</a></li>
-                           <li><a class="scrollings" href="contact.php">Contact</a></li>
+                           <li><a class="scrollings" href="ourgallery.php">Our Portfolio</a></li>
+                           <li><a class="scrollings" href="contact.php">Contact Us</a></li>
 
 
                            <li><a href="request-a-quote.php" class="scrollings">Request a Quote</a></li>

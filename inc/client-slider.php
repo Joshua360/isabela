@@ -1,5 +1,11 @@
 <div class="container">
-  <h2 class="client-slider">Our Clients and Partners</h2><br>
+        <div class="container" style="margin-top:20px;">
+            <div class="intro-text center wow fadeInUp">
+                <span class="heading-title bottom25">OUR CLIENTS AND PARTNERS</span>
+                <h2 class="darkcolor heading_space">We partner with brands of all sizes.</h2>
+            </div>  
+        </div>
+        
    <section class="customer-logos slider">
       <div class="slide"><img src="img/1.jpg"></div>
       <div class="slide"><img src="img/2.png"></div>

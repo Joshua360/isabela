@@ -36,24 +36,24 @@
                     <div data-filter="*" class="cbp-filter-item">
                         <span>all</span>
                     </div>
-                    <div data-filter=".web" class="cbp-filter-item">
-                        <span>Web design</span>
-                    </div>
-                    <div data-filter=".app" class="cbp-filter-item">
-                        <span>application</span>
-                    </div>
-                    <div data-filter=".graphic" class="cbp-filter-item">
-                        <span>graphics</span>
-                    </div>
-                    <div data-filter=".brand" class="cbp-filter-item">
+                    <div data-filter=".print" class="cbp-filter-item">
                         <span>Print</span>
                     </div>
+                    <div data-filter=".logo" class="cbp-filter-item">
+                        <span>Logos</span>
+                    </div>
+                    <div data-filter=".dev" class="cbp-filter-item">
+                        <span>Web development</span>
+                    </div>
+                    <!-- <div data-filter=".brand" class="cbp-filter-item">
+                        <span>SEO</span>
+                    </div> -->
                 </div>
          </div>
          <div class="col-md-3 col-sm-2"> </div>
       </div>
       <div id="masonry-grid" class="cbp">
-         <div class="cbp-item web brand">
+         <div class="cbp-item print brand">
             <div class="image">
                <img alt="image" src="portfolio/covid-2.png">
             </div>
@@ -66,7 +66,7 @@
                <p>printing industry</p>
             </div>
          </div>
-         <div class="cbp-item app">
+         <div class="cbp-item print">
             <div class="image">
                <img alt="image" src="portfolio/covid.png">
             </div>
@@ -79,7 +79,7 @@
                <p>printing industry</p>
             </div>
          </div>
-         <div class="cbp-item brand">
+         <div class="cbp-item print">
             <div class="image">
                <img alt="image" src="portfolio/health.png">
             </div>
@@ -92,20 +92,25 @@
                <p>printing industry</p>
             </div>
          </div>
-         <div class="cbp-item web graphic">
+         <div class="cbp-item print">
             <div class="image">
-               <img alt="image" src="portfolio/1.png">
+               <img alt="image" src="portfolio/menu.jpg">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="portfolio/1.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/menu.jpg"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/1.png">Poster</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/menu.jpg">Poster</a></h3>
                <p>printing industry</p>
             </div>
          </div>
-         <div class="cbp-item app">
+
+
+   
+
+
+         <div class="cbp-item print">
             <div class="image">
                <img alt="image" src="portfolio/lolita.png">
             </div>
@@ -118,7 +123,7 @@
                <p>printing industry</p>
             </div>
          </div>
-         <div class="cbp-item brand graphic">
+         <div class="cbp-item print">
             <div class="image">
                <img alt="image" src="portfolio/lolwe.png">
             </div>
@@ -131,7 +136,7 @@
                <p>printing industry</p>
             </div>
          </div>
-         <div class="cbp-item app graphic brand">
+         <div class="cbp-item logo">
             <div class="image">
                <img alt="image" src="portfolio/5.png">
             </div>
@@ -144,20 +149,20 @@
                <p>printing industry</p>
             </div>
          </div>
-         <div class="cbp-item web app">
+         <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="portfolio/miss-kabete.png">
+               <img alt="image" src="portfolio/2.png">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="portfolio/miss-kabete.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/2.png"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/miss-kabete.png">Poster</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/2.png">Poster</a></h3>
                <p>printing industry</p>
             </div>
          </div>
-         <div class="cbp-item graphic brand app">
+         <div class="cbp-item print">
             <div class="image">
                <img alt="image" src="portfolio/receipts.png">
             </div>
@@ -170,20 +175,93 @@
                <p>printing industry</p>
             </div>
          </div> 
-         <div class="cbp-item web app graphic brand">
+
+         <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="portfolio/3.jpg">
+               <img alt="image" src="portfolio/7.png">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="portfolio/3.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/7.png"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/3.png">Poster</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/7.png">Logo</a></h3>
+               <p>Illustrations</p>
+            </div>
+         </div> 
+
+         <div class="cbp-item logo">
+            <div class="image">
+               <img alt="image" src="portfolio/1.png">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/1.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/1.png">Logo</a></h3>
+               <p>Illustrations</p>
+            </div>
+         </div> 
+
+
+         <div class="cbp-item logo">
+            <div class="image">
+               <img alt="image" src="portfolio/10.png">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/10.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/10.png">Logo</a></h3>
+               <p>Illustrations</p>
+            </div>
+         </div> 
+
+         <div class="cbp-item dev">
+            <div class="image">
+               <img alt="image" src="portfolio/delta.png">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/delta.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="seven-delta.com"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/delta.png">Website</a></h3>
+               <p>Illustrations</p>
+            </div>
+         </div> 
+
+         <div class="cbp-item dev">
+            <div class="image">
+               <img alt="image" src="portfolio/lam.png">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/lam.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="seven-delta.com"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/lam.png">Website</a></h3>
+               <p>Illustrations</p>
+            </div>
+         </div>
+
+
+         <div class="cbp-item print app graphic brand">
+            <div class="image">
+               <img alt="image" src="portfolio/card.png">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/card.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/card.png">Card</a></h3>
                <p>printing industry</p>
             </div>
          </div>
-         <div class="cbp-item web">
+         <div class="cbp-item print">
             <div class="image">
                <img alt="image" src="portfolio/miss-kabete.png">
             </div>
@@ -196,7 +274,7 @@
                <p>printing industry</p>
             </div>
          </div>
-         <div class="cbp-item graphic">
+         <div class="cbp-item logo">
             <div class="image">
                <img alt="image" src="portfolio/4.png">
             </div>

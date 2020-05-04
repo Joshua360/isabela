@@ -33,18 +33,16 @@
             </div>
          </div>
       </div>
-      <div class="row">
-         <div class="col-md-7 col-sm-7 margin_bottom">
+      <div >
+         <!-- <div class="col-md-7 col-sm-7 margin_bottom">
             <div class="equalheight wow fadeInLeft"><div id="googleMap"></div></div>
-         </div>
-         <div class="col-md-5 col-sm-5 margin_bottom">
-            <div class="address-bg equalheight wow fadeInRight">
+         </div> -->
+            <div class="address-bg equalheight wow fadeInRight" style="margin:auto; margin-bottom:40px;">
                <div class="our-address">
                   <div class="swiper-button-next"></div>
                   <div class="swiper-button-prev"></div>
                   <div class="swiper-container">
                      <div class="swiper-wrapper">
-
                         <div class="swiper-slide">
                            <h6 class="darkcolor">Apex Digital Kenya</h6>
                            <h2 class="darkcolor top25 bottom35"><span class="defaultcolor">Agency Office,</span> Nairobi</h2>
@@ -58,14 +56,11 @@
                               <li><a href="javascript:void(0)"><i class="fa fa-instagram"></i> </a> </li>
                               <li><a href="javascript:void(0)"><i class="fa fa-linkedin"></i> </a> </li>
                            </ul>
-                        </div>
-
-                       
+                        </div>                      
                      </div>
                   </div>
                </div>
             </div>
-         </div>
       </div>
    </div>
 </section>
@@ -73,6 +68,8 @@
 
 
 <!--Contact form-->
+<h2 class=" text-capitalize bottom45" style="text-align:center;">Tell us about your project</h2>
+
 <?php include 'inc/contact-form.php'?>
 <!--Contact form ends-->
 

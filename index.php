@@ -45,7 +45,7 @@
             <div class="intro-text text-right wow fadeInRight">
                <!-- <span class="heading-title bottom25">always behind the brands</span> -->
                <h2 class="whitecolor bottom45">Ready to get started with your project?</h2>
-               <p class="whitecolor">Our team is ready and passionate about meeting your goals.</p>
+               <p class="whitecolor">We are ready and passionate about meeting your goals.</p>
                <a href="request-a-quote.php" class="button default top50">GET A QUOTE</a>
             </div>
          </div>
@@ -53,10 +53,8 @@
    </div>
 </section>
 <!--Single intro ends-->
+<?php include'inc/testimonials.php'?>
 
-
-<!--Team 02 Slider-->
-<!-- Team slider ends -->
 
 
 <!--LOGOS / Partners-->

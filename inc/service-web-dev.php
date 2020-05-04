@@ -5,26 +5,26 @@
                <i class="fa fa-code"></i>
                <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Website development</a></h4>
                <hr>
-               <p class="no_bottom">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae unde hic saepe enim corporis, praesentium soluta. Soluta excepturi ipsa eos corporis ratione, minus eum rerum quas ducimus aliquam, facilis sed praesentium temporibus repellat reiciendis itaque libero tempore porro delectus vel.</p>
+               <p class="no_bottom" style="text-align:left;"> We build fast, secure and scalable websites. Our goal is to improve the user experience for the users of clients.</p>
             </div>
          </div>
 
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top50 wow fadeInUp">
                <i class="fa fa-wordpress"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">CMS Integration
+               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">CMS integration
 
             </a></h4>
                <hr>
-               <p class="no_bottom">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis optio ipsam soluta porro inventore minus fugiat magnam incidunt quisquam saepe rerum recusandae, animi numquam rem labore pariatur, excepturi cum quo quae iusto? Impedit numquam excepturi esse harum est aut rem.</p>
+               <p class="no_bottom" style="text-align:left;"> We convert your existing static HTML website into a CMS using wordpress. This will give you the advantage of being able to update website content without a hassle or needing the help of a developer.</p>
             </div>
          </div>
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top50 wow fadeInUp">
                <i class="fa fa-support"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Web Design</a></h4>
+               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Web design</a></h4>
                <hr>
-               <p class="no_bottom">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam magnam architecto autem, neque reiciendis sed obcaecati nesciunt vero expedita corrupti, accusantium distinctio ipsa nobis quae quisquam, sapiente placeat consectetur fugit dolore quibusdam reprehenderit adipisci veritatis. Accusantium, odio. Iusto, aspernatur dicta?</p>
+               <p class="no_bottom" style="text-align:left;">We design beautifully looking websites using the mobile first design approach. We combine design skills with development to produce better user experiences. </p>
             </div>
          </div>
 

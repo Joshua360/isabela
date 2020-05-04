@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,500,600,700|PT+Serif:400,400i,700,700i');
 
+
 /*Table Of Contents 
 body
 -short codes
@@ -41,12 +42,24 @@ body
 
 
 
-
+@font-face {
+    font-family:"futura";
+    src: url(../fonts2/FuturaPTBold.otf);
+    font-style: normal;
+    font-weight:300;
+}
+/* 
+@font-face {
+    font-family:'futura';
+    src: url(../fonts/FuturaHeavy.ttf);
+    font-style: normal;
+    font-weight:300;
+} */
 
 body {
     padding: 0;
     margin: 0;
-    font-family: 'Open Sans';
+    font-family: Verdana,sans-serif;
     font-size: 1rem;
     color: #979797;
     overflow-x: hidden;
@@ -71,7 +84,7 @@ input:focus{
     outline: none;
 }
 h1,h2,h3{
-    font-family: 'PT Serif', serif;
+    font-family: 'futura';
 }
 h1,h2,h3,h4,h5,h6 {
     margin: 0;
@@ -103,7 +116,7 @@ h6{
 }
 
 p{
-    font-family: 'Open Sans';
+    font-family: 'Verdana';
 }
 .block{
     display: block;

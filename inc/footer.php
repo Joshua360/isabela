@@ -16,24 +16,18 @@
 <h5 class="widget-title">Important Links<span></span></h5>
 <ul class="thumbnail-widget">
 <li>
-<div class="thumb-content"><a href="services.php">Our Services</a></div>	
+<div class="thumb-content"><a href="services.php">what we do</a></div>	
 </li>
 <!-- <li>
-<div class="thumb-content"><a href="#.">Our team</a></div>	
+<div class="thumb-content"><a href="#.">Our People</a></div>	
 </li> -->
 <!-- <li>
-<div class="thumb-content"><a href="#.">Success Stories</a></div>	
+<div class="thumb-content"><a href="#.">Terms and Conditions</a></div>	
 </li> -->
 <li>
-<div class="thumb-content"><a href="ourgallery.php">Our Porfolio</a></div>	
+<div class="thumb-content"><a href="ourgallery.php">Our Portfolio</a></div>	
 </li>
-<!-- <li>
-<div class="thumb-content"><a href="#">Our Blog</a></div>	
-</li> -->
 
-<li>
-<div class="thumb-content"><a href="about.php">About Us</a></div>	
-</li>
 </ul>
 </div>
 </div>
@@ -49,9 +43,11 @@
 <div class="col-xs-12 col-sm-6 col-md-3">
 
 <div class="widget no-box">
-<h5 class="widget-title">Email Us<span></span></h5>
+<h5 class="widget-title">Contact Us<span></span></h5>
 
-<p><a href="mailto:apexgdd@gail.com" title="glorythemes">apexgdd@gail.com</a></p>
+<p><a href="mailto:apexgdd@gmail.com" title="glorythemes">apexgdd@gmail.com</a></p>
+<p><a href="mailto:info@apexdigital.co.ke" title="glorythemes">info@apexdigital.co.ke</a></p>
+
 <ul class="social-footer2">
    <!-- social icon li -->
    <?php include 'footer-social-icons.php';?>

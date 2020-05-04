@@ -6,8 +6,8 @@
                <h3 class="bottom10">
                   <a style="color:black;" data-fancybox="group-three" href="graphic-design.php">Graphic <strong>Design</strong></a>
                </h3>
-               <p style="color:black;">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today just like.</p>
-               <a class="button darkhole top40"href="graphic-design.php">View More</a>
+               <p style="color:black;">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.</p>
+               <a class="button darkhole top40" href="graphic-design.php">View More</a>
             </div>
          </div>
          <div class="col-md-7 col-sm-4 col-xs-1"></div>
@@ -52,7 +52,8 @@
                <h3 class="bottom10">
                   <a data-fancybox="group-three" href="digital-marketing.php">Digital <strong>Marketing</strong></a>
                </h3>
-               <p>We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.</p>
+               <p>Here we focus on the component of marketing that utilizes internet and online based on digital technologies such as desktop computers, mobile phones and other digital madeia and platforms to promote products and services.</p>
+               <!-- <p>We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.</p> -->
                <a class="button whitehole top40"href="digital-marketing.php">View More</a>
             </div>
          </div>

@@ -33,6 +33,12 @@
                   <span class="heading-title bottom25">Who We Are</span>
                   <h2 class="darkcolor bottom45">Apex-digital is a graphics design comapany based In Nairobi. We also do web development and digital marketing.</h2>
                   <p>We started as a mainstream graphic design organization doing static and motion art work and Prints. but due to the growing demand of marketing of the same products we extended our services to digital marketing and continuous customer relation i.e. monthly, quarterly and annually.</p>
+              
+                  <a class="button darkhole top40" href="apex/apexdigital-cp.pdf"  download="apexdigital company profile">Download company profile</a>
+               
+                  
+
+
                   <div class="bars-custom top50">
                      <div class="barwrapper">
                         <!-- <span class="progressText">Coding</span>
@@ -56,8 +62,16 @@
             </div>
          </div>
          <div class="col-md-6 nopadding">
+
+         <style>
+            .wall,
+            .wood{
+               border: 1px solid grey;
+               padding :10px;
+            }
+         </style>
             <div class="image">
-               <img alt="image" src="apex/new-wall.jpg" class="equalheight">
+               <img alt="image" src="apex/wall-full.jpg" class="equalheight wall">
             </div>
          </div>
       </div>
@@ -74,46 +88,16 @@
             <div class="intro-text center wow fadeInUp">
                <span class="heading-title bottom25">what we do </span>
                <h2 class="darkcolor bottom25">with passion </h2>
+               <p class="bottom45">We are all about continuosly providing our clients the best in class graphic design, fullstack web development and digital marketing solutions.</p>
+                    
             </div>
          </div>
          <div class="col-md-2 col-sm-2"></div>
 
-
-
-
-
-
-
-
-
-
       </div>
       <div class="row">
 
-         <div class="col-md-4 col-sm-6">
-            <div class="icon_box equalheight top50 wow fadeInUp">
-            <i class="fas fa-palette"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Graphic design</a></h4>
-               <hr>
-               <p class="no_bottom">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.</p>
-            </div>
-         </div>
-         <div class="col-md-4 col-sm-6">
-            <div class="icon_box equalheight top50 wow fadeInUp">
-               <i class="fa fa-code"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Web development</a></h4>
-               <hr>
-               <p class="no_bottom">We design and develop responsive websites with clear and easy to interact User interphase UI and a well planned User experience.</p>
-            </div>
-         </div>
-         <div class="col-md-4 col-sm-6">
-            <div class="icon_box equalheight top50 wow fadeInUp">
-            <i class="fas fa-ad"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Digital Marketing</a></h4>
-               <hr>
-               <p class="no_bottom">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.</p>
-            </div>
-         </div>
+
 
       </div>
    </div>
@@ -154,13 +138,13 @@
           </div>
           <div class="col-md-6 nopadding">
              <div class="image">
-                <img alt="image" src="apex/wooden.jpg" class="equalheight">
+                <img alt="image" src="apex/wooden.jpg" class="equalheight wood">
              </div>
           </div>
        </div>
     </div>
  </section>
-<!--Counter Style 03-->
+<!--Counter-->
 <section id="bg-counter" class="padding_top padding_bottom_half parallaxie">
    <div class="container">
       <div class="row counter-wrap text-center">
@@ -172,18 +156,16 @@
                   </div>
                </div>
                <h6 class="text-uppercase bottom25">Brands Launched </h6>
-               <!-- <p>Exciting and captivating trade-show exhibits, putting our clients in the spotlight.</p> -->
             </div>
          </div>
          <div class="col-md-3 col-sm-6 col-xs-6">
             <div class="counter-center center padding_bottom_half wow fadeInUp">
                <div class="number-counters bottom10">
                   <div class="counters">
-                     <span class="count_nums" data-to="84" data-speed="2500"> </span>
+                     <span class="count_nums" data-to="10" data-speed="2500"> </span>
                   </div>
                </div>
-               <h6 class="text-uppercase bottom25">Digital design Awards </h6>
-               <!-- <p>GPS receivers and laser range who finders, unmanned aerial vehicles, inertial systems. </p> -->
+               <h6 class="text-uppercase bottom25">Web Apps </h6>
             </div>
          </div>
          <div class="col-md-3 col-sm-6 col-xs-6">
@@ -193,39 +175,27 @@
                      <span class="count_nums" data-to="28" data-speed="2500"> </span>
                   </div>
                </div>
-               <h6 class="text-uppercase bottom25">Websites Made </h6>
-               <!-- <p> Trimble’s branding and images. IGE also created a low-energy lighting solution. </p> -->
+               <h6 class="text-uppercase bottom25">Websites</h6>
             </div>
          </div>
          <div class="col-md-3 col-sm-6 col-xs-6">
             <div class="counter-center center padding_bottom_half wow fadeInUp">
                <div class="number-counters bottom10">
                   <div class="counters">
-                     <span class="count_nums" data-to="107" data-speed="2500"> </span>
+                     <span class="count_nums" data-to="17" data-speed="2500"> </span>
                   </div>
                </div>
                <h6 class="text-uppercase bottom25">active clients </h6>
-               <!-- <p>It was a game changer; it simplified the often complicated process of converting. </p> -->
             </div>
          </div>
       </div>
    </div>
 </section>
-<!--Counter Style 03 ends-->
 
-
-<!--Team 02 Slider-->
 <?php include 'inc/team.php'?>
 
 
 
-<!--Testimonials with background ends-->
-
-
-
-<!--LOGOS / Partners-->
-
-<!--LOGOS / Partners ends-->
 
 <?php include 'inc/client-slider.php'?>
 
