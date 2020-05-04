@@ -15,8 +15,8 @@
          <div class=" col-md-offset-3 col-md-6 col-sm-offset-3 col-sm-6">
             <div id="owl-thumbs" class="owl-dots text-center">
                <div class="owl-dot active"><img src="apex-brands/aavf.png" alt=""></div>
-               <div class="owl-dot"><img src="apex-brands/clean.png" alt=""></div>
-               <div class="owl-dot"><img src="apex-brands/seven.png" alt="" style="width:130px"></div>
+               <div class="owl-dot"><img src="apex-brands/seven.png" alt=""></div>
+               <div class="owl-dot"><img src="apex-brands/clean.png" alt="" style="width:130px"></div>
             </div>
          </div>
          <div class="col-md-3 col-sm-3"></div>

@@ -85,12 +85,16 @@ a, a:hover, a:focus{
 input:focus{
     outline: none;
 }
+
+/* I added new styles for h1,h2,h3 */
 h1,h2,h3{
     font-family: "Montserrat", "Open Sans", Arial, sans-serif;
     font-weight:700;
     font-size:35px;
     line-height: 52px;
 }
+
+
 h1,h2,h3,h4,h5,h6 {
     margin: 0;
     line-height: 1;    
