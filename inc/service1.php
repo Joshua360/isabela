@@ -8,7 +8,7 @@
             <div class="col-md-8 col-sm-10">
                 <div class="intro-text center bottom15 wow fadeInUp">
                     <span class="heading-title bottom25">Meet Apex Digital</span>
-                    <h2 class="darkcolor bottom45">We develop brands online</h2>
+                    <h2 class="darkcolor bottom45">WE  DEVELOP BRANDS ONLINE</h2>
                     <p class="bottom45">We are all about continuosly providing our clients the best in class graphic design, fullstack web development and digital marketing solutions.</p>
                     
                     <!-- We are a digital marketing, graphics design and Web development and management agency based in Nairobi. Our team is a combination of skilled graphic designers, web developers, and digital marketers. -->
