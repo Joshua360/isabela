@@ -31,7 +31,7 @@
          <div class="col-md-3 col-sm-6">
             <div class="teambox large text-center">
                <div class="teamimg bottom30">
-                  <img alt="image" src="team/pet.jpg">
+                  <img alt="image" src="team/jeff.jpg">
                </div>
                <h3 class="darkcolor">Jeff Austine</h3>
                <span class="accupation bottom35">Marketing strategist</span>

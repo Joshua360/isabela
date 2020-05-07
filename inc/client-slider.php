@@ -7,23 +7,14 @@
         </div>
         
    <section class="customer-logos slider">
-      <div class="slide"><img src="img/1.jpg"></div>
-      <div class="slide"><img src="img/2.png"></div>
-      <div class="slide"><img src="img/3.jpg"></div>
-      <div class="slide"><img src="img/4.png"></div>
-      <div class="slide"><img src="img/5.png"></div>
-      <div class="slide"><img src="img/6.png"></div>
-      <div class="slide"><img src="img/7.png"></div>
-      <div class="slide"><img src="img/8.png"></div>
-	  
-	  <div class="slide"><img src="img/9.png"></div>
-      <div class="slide"><img src="img/10.png"></div>
-      <div class="slide"><img src="img/11.png"></div>
-      <div class="slide"><img src="img/12.jpeg"></div>
-      <div class="slide"><img src="img/13.jpg"></div>
-      <div class="slide"><img src="img/14.png"></div>
-      <div class="slide"><img src="img/16.jpg"></div>
+   <div class="slide"><img src="img/AAVF.png"></div>
       <div class="slide"><img src="img/17.jpg"></div>
+      <div class="slide"><img src="img/3.jpg"></div>
+      <div class="slide"><img src="img/10.png"></div>
+	  <div class="slide"><img src="img/9.png"></div>
+      <div class="slide"><img src="img/logo-delta.png"></div>
+
+     
    </section>
 </div>
 

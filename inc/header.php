@@ -78,14 +78,13 @@
                            <li><a class="scrollings" href="about.php">About Us</a></li>
                            <!-- <li><a class="scrollings" href="#team">Team</a> </li> -->
                         </ul>
+                        
                      </div>
                      <div class="navbar-right-1">
                         <ul class="nav navbar-nav navbar-right">
                            <!-- <li><a href="#ourinfo" class="scrollings">Blog</a></li> -->
                            <li><a class="scrollings" href="ourgallery.php">Our Portfolio</a></li>
                            <li><a class="scrollings" href="contact.php">Contact Us</a></li>
-
-
                            <li><a href="request-a-quote.php" class="scrollings">Request a Quote</a></li>
                         </ul>
                      </div>

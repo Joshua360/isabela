@@ -16,7 +16,7 @@
 
                   <p class="bottom45" style="color:white;">PLAY VIDEO TO SEE WHAT WE DO</p>
 
-                     <a href="apex/intro.mp4" class="video-btn html5lightbox"><i class="fa fa-play"></i></a>
+                     <a href="images/video.m4v" class="video-btn html5lightbox"><i class="fa fa-play"></i></a>
                   </div>
                   <div class="wow fadeInUp">
                      <h2 class="text-capitalize top50 bottom35  whitecolor">We help businesses launch iconic brands online</span></h2>
@@ -43,7 +43,7 @@
          <div class="col-md-6 col-sm-3"></div>
          <div class="col-md-6 col-sm-9">
             <div class="intro-text text-right wow fadeInRight">
-               <!-- <span class="heading-title bottom25">always behind the brands</span> -->
+               <span class="heading-title bottom25">always behind the brands</span>
                <h2 class="whitecolor bottom45">Ready to get started with your project?</h2>
                <p class="whitecolor">We are ready and passionate about meeting your goals.</p>
                <a href="request-a-quote.php" class="button default top50">GET A QUOTE</a>

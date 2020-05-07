@@ -11,14 +11,39 @@
          </div>
          <div class="col-md-2 col-sm-2"></div>
        </div>
-        <!-- <div id="logo-arrow" class="swiper-container">
+        <div id="logo-arrow" class="swiper-container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="logo-item">
-                        <img src="images/logo-color1.png" alt="logo">
+                        <img src="img/17.jpg" alt="logo">
                     </div>
                 </div>
                 <div class="swiper-slide">
+                    <div class="logo-item">
+                        <img src="img/3.jpg" alt="logo">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="logo-item">
+                        <img src="img/logo-delta.png" alt="logo">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="logo-item">
+                        <img src="img/AAVF.png" alt="logo">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="logo-item">
+                        <img src="img/10.png" alt="logo">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="logo-item">
+                        <img src="img/9.png" alt="logo">
+                    </div>
+                </div>
+                <!-- <div class="swiper-slide">
                     <div class="logo-item">
                         <img src="images/logo-color2.png" alt="logo">
                     </div>
@@ -37,33 +62,8 @@
                     <div class="logo-item">
                         <img src="images/logo-color5.png" alt="logo">
                     </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="logo-item">
-                        <img src="images/logo-color1.png" alt="logo">
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="logo-item">
-                        <img src="images/logo-color2.png" alt="logo">
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="logo-item">
-                        <img src="images/logo-color3.png" alt="logo">
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="logo-item">
-                        <img src="images/logo-color4.png" alt="logo">
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="logo-item">
-                        <img src="images/logo-color5.png" alt="logo">
-                    </div>
-                </div>
-            </div> -->
+                </div> -->
+            </div>
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>
         </div>
