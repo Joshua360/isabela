@@ -71,7 +71,7 @@
             }
          </style>
             <div class="image">
-               <img alt="image" src="apex/wooden.jpg" class="equalheight wall">
+               <img alt="image" src="apex/wall-full.jpg" class="equalheight wall">
             </div>
          </div>
       </div>

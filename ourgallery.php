@@ -52,6 +52,8 @@
          </div>
          <div class="col-md-3 col-sm-2"> </div>
       </div>
+
+
       <div id="masonry-grid" class="cbp">
          <div class="cbp-item print">
             <div class="image">
@@ -66,6 +68,22 @@
                <p>printing industry</p>
             </div>
          </div>
+
+         <div class="cbp-item brand">
+            <div class="image">
+               <img alt="image" src="portfolio/card-1.jpg">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/card-1.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/card-1.jpg">Poster</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+
          <div class="cbp-item print">
             <div class="image">
                <img alt="image" src="portfolio/covid.png">
@@ -79,6 +97,8 @@
                <p>printing industry</p>
             </div>
          </div>
+
+
          <div class="cbp-item print">
             <div class="image">
                <img alt="image" src="portfolio/health.png">
@@ -92,6 +112,96 @@
                <p>printing industry</p>
             </div>
          </div>
+
+
+         <div class="cbp-item brand">
+            <div class="image">
+               <img alt="image" src="portfolio/card-2.jpg">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/card-2.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/card-2.jpg">Poster</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+
+         <div class="cbp-item brand">
+            <div class="image">
+               <img alt="image" src="portfolio/card-3.jpg">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/card-3.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/card-3.jpg">Poster</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+         <div class="cbp-item brand">
+            <div class="image">
+               <img alt="image" src="portfolio/card-4.jpg">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/card-4.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/card-4.jpg">Poster</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+
+         <div class="cbp-item brand">
+            <div class="image">
+               <img alt="image" src="portfolio/card-5.jpg">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/card-5.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/card-5.jpg">Poster</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+         <div class="cbp-item brand">
+            <div class="image">
+               <img alt="image" src="portfolio/cards.jpg">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/cards.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/cards.jpg">Poster</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+
+         <div class="cbp-item brand">
+            <div class="image">
+               <img alt="image" src="portfolio/book.jpg">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/book.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/book.jpg">Poster</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+
          <div class="cbp-item print">
             <div class="image">
                <img alt="image" src="portfolio/menu.jpg">
@@ -106,10 +216,6 @@
             </div>
          </div>
 
-
-   
-
-
          <div class="cbp-item print">
             <div class="image">
                <img alt="image" src="portfolio/lolita.png">
@@ -123,6 +229,8 @@
                <p>printing industry</p>
             </div>
          </div>
+
+
          <div class="cbp-item print">
             <div class="image">
                <img alt="image" src="portfolio/lolwe.png">
@@ -136,6 +244,51 @@
                <p>printing industry</p>
             </div>
          </div>
+
+
+         <div class="cbp-item print">
+            <div class="image">
+               <img alt="image" src="portfolio/tina.png">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/tina.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/tina.png">Poster</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+         <div class="cbp-item print">
+            <div class="image">
+               <img alt="image" src="portfolio/drop.png">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/drop.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/drop.png">Poster</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+         <div class="cbp-item print">
+            <div class="image">
+               <img alt="image" src="portfolio/vdj.png">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/vdj.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/vdj.png">Poster</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+
          <div class="cbp-item logo">
             <div class="image">
                <img alt="image" src="portfolio/5.png">
@@ -149,6 +302,8 @@
                <p>printing industry</p>
             </div>
          </div>
+
+
          <div class="cbp-item logo">
             <div class="image">
                <img alt="image" src="portfolio/2.png">
@@ -194,42 +349,42 @@
 
          <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="img/11.png">
+               <img alt="image" src="portfolio/02.jpg">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="portfolio/11.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/02.jpg"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/11.png">Logo</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/02.jpg">Logo</a></h3>
                <p>printing industry</p>
             </div>
          </div>
 
          <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="img/13.jpg">
+               <img alt="image" src="portfolio/016.jpg">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/13.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/016.jpg"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/13.jpg">Logo</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/016.jpg">Logo</a></h3>
                <p>printing industry</p>
             </div>
          </div>
 
          <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="img/19.png">
+               <img alt="image" src="portfolio/05.jpg">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/19.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/05.jpg"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/19.png">Logo</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/05.jpg">Logo</a></h3>
                <p>printing industry</p>
             </div>
          </div>
@@ -237,103 +392,193 @@
          
          <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="img/20.jpg">
+               <img alt="image" src="portfolio/06.png">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/20.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/06.png"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/20.jpg">Logo</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/06.png">Logo</a></h3>
                <p>printing industry</p>
             </div>
          </div>
 
-
-         <div class="cbp-item brand">
+         <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="img/card-1.jpeg">
+               <img alt="image" src="portfolio/014.jpg">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/card-1.jpeg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/014.jpg"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/card-1.jpeg">Logo</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/014.jpg">Logo</a></h3>
                <p>printing industry</p>
             </div>
          </div>
 
-         <div class="cbp-item brand">
+         <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="img/card-2.jpeg">
+               <img alt="image" src="portfolio/017.png">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/card-2.jpeg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/017.png"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/card-2.jpeg">Logo</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/017.png">Logo</a></h3>
                <p>printing industry</p>
             </div>
          </div>
 
 
-         <div class="cbp-item brand">
+         <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="img/card-3.jpeg">
+               <img alt="image" src="portfolio/019.png">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/card-3.jpeg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/019.png"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/card-3.jpeg">Logo</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/019.png">Logo</a></h3>
                <p>printing industry</p>
             </div>
          </div>
 
-         <div class="cbp-item brand">
+
+         <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="img/card-4.jpeg">
+               <img alt="image" src="portfolio/020.png">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/card-4.jpeg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/020.png"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/card-4.jpeg">Logo</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/020.png">Logo</a></h3>
                <p>printing industry</p>
             </div>
          </div>
 
-         <div class="cbp-item brand">
+
+         <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="img/card-5.jpeg">
+               <img alt="image" src="portfolio/08.png">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/card-5.jpeg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/08.png"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/card-5.jpeg">Logo</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/08.png">Logo</a></h3>
                <p>printing industry</p>
             </div>
          </div>
 
-         <div class="cbp-item brand">
+         <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="img/cards.jpeg">
+               <img alt="image" src="portfolio/09.png">
             </div>
             <div class="overlay center-block whitecolor">
                <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/cards.jpeg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a data-fancybox="gallery" href="portfolio/09.png"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/cards.jpeg">Logo</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/09.png">Logo</a></h3>
                <p>printing industry</p>
             </div>
          </div>
+
+         <div class="cbp-item logo">
+            <div class="image">
+               <img alt="image" src="portfolio/011.png">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/011.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/011.png">Logo</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+
+         <div class="cbp-item logo">
+            <div class="image">
+               <img alt="image" src="portfolio/013.png">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/013.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/013.png">Logo</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+
+         <div class="cbp-item logo">
+            <div class="image">
+               <img alt="image" src="portfolio/04.png">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/04.png"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/04.png">Logo</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+         <div class="cbp-item logo">
+            <div class="image">
+               <img alt="image" src="portfolio/021.jpg">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/021.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/021.jpg">Logo</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+         <div class="cbp-item logo">
+            <div class="image">
+               <img alt="image" src="portfolio/022.jpg">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/022.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/022.jpg">Logo</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+
+         <div class="cbp-item logo">
+            <div class="image">
+               <img alt="image" src="portfolio/012.jpg">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/012.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/012.jpg">Logo</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+
 
          <div class="cbp-item print">
             <div class="image">
@@ -380,76 +625,6 @@
 
          <div class="cbp-item logo">
             <div class="image">
-               <img alt="image" src="img/16.jpg">
-            </div>
-            <div class="overlay center-block whitecolor">
-               <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/16.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/16.jpg">Logo</a></h3>
-               <p>Illustrations</p>
-            </div>
-         </div> 
-
-         <div class="cbp-item logo">
-            <div class="image">
-               <img alt="image" src="img/16.jpg">
-            </div>
-            <div class="overlay center-block whitecolor">
-               <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/16.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/16.jpg">Logo</a></h3>
-               <p>Illustrations</p>
-            </div>
-
-         <div class="cbp-item logo">
-            <div class="image">
-               <img alt="image" src="img/17.jpg">
-            </div>
-            <div class="overlay center-block whitecolor">
-               <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/17.jpg"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/17.jpg">Logo</a></h3>
-               <p>Illustrations</p>
-            </div>
-         </div> 
-
-         
-         <div class="cbp-item logo">
-            <div class="image">
-               <img alt="image" src="img/8.png">
-            </div>
-            <div class="overlay center-block whitecolor">
-               <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/8.png"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/8.png">Logo</a></h3>
-               <p>Illustrations</p>
-            </div>
-         </div> 
-
-         <div class="cbp-item logo">
-            <div class="image">
-               <img alt="image" src="img/4.png">
-            </div>
-            <div class="overlay center-block whitecolor">
-               <ul class="social white bottom40">
-                  <li><a data-fancybox="gallery" href="img/4.png"><i class="fa fa-search-plus"></i></a></li>
-                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
-               </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="img/4.png">Logo</a></h3>
-               <p>Illustrations</p>
-            </div>
-         </div> 
-
-         <div class="cbp-item logo">
-            <div class="image">
                <img alt="image" src="portfolio/10.png">
             </div>
             <div class="overlay center-block whitecolor">
@@ -491,7 +666,7 @@
          </div>
 
 
-         <div class="cbp-item print app graphic">
+         <div class="cbp-item print app graphic brand">
             <div class="image">
                <img alt="image" src="portfolio/card.png">
             </div>

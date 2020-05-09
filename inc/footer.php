@@ -45,8 +45,8 @@
 <div class="widget no-box">
 <h5 class="widget-title">Contact Us<span></span></h5>
 
-<p><a href="mailto:apexgdd@gmail.com" title="email">apexgdd@gmail.com</a></p>
-<p><a href="mailto:info@teamapexdigital.com" title="email">info@teamapexdigital.com</a></p>
+<p><a href="mailto:apexgdd@gmail.com" title="glorythemes">apexgdd@gmail.com</a></p>
+<p><a href="mailto:info@apexdigital.co.ke" title="glorythemes">info@apexdigital.co.ke</a></p>
 
 <ul class="social-footer2">
    <!-- social icon li -->
