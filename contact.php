@@ -64,11 +64,13 @@
       </div>
    </div>
 </section>
+
+<br><br><br>
 <!--Map + Address ends-->
 
 
 <!--Contact form-->
-<h2 class=" text-capitalize bottom45" style="text-align:center;">Tell us about your project</h2>
+<h3 class=" text-capitalize bottom45" style="text-align:center;">Tell us about your project</h3>
 
 <?php include 'inc/contact-form.php'?>
 <!--Contact form ends-->

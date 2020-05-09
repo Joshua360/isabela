@@ -14,7 +14,7 @@
 
                         <div class="swiper-slide">
                            <!-- <h6 class="darkcolor">Apex Digital Kenya</h6> -->
-                           <h3 class="darkcolor top25 bottom35"><span class="defaultcolor">Give Us a Call</span> (254) 708-818-032</h3>
+                           <h3 class="darkcolor top25 bottom35"><span class="defaultcolor">Give Us a Call</span> +(254) 708-818-032</h3>
                              <h4 class="darkcolor">Pay us a visit</h4>
 
                            <p>Ridge House, 2nd Floor Dubois Road </p>
@@ -22,7 +22,7 @@
                            <h4 class="darkcolor">Email Us</h4>
 
                            <p><a href="mailto:apexgdd@gmail.com">apexgdd@gmail.com</a></p>
-                           <p><a href="mailto:info@apexdigital.co.ke">info@apexdigital.co.ke</a></p>
+                           <p><a href="mailto:info@apexdigital.co.ke">info@teamapexdigital.com</a></p>
 
                            <ul class="social top50">
                               <li><a href="https://www.facebook.com/ApexGdd/" target="_blank"><i class="fa fa-facebook"></i> </a> </li>

@@ -19,7 +19,7 @@
 </section>
 <br><br>
 <!--Page header ends-->
-<h2 class=" text-capitalize bottom45" style="text-align:center;">Tell us about your project</h2>
+<h3 class=" text-capitalize bottom45" style="text-align:center;">Tell us about your project</h3>
 
 <?php include'inc/talk.php'?>
 

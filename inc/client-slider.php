@@ -2,7 +2,7 @@
         <div class="container" style="margin-top:20px;">
             <div class="intro-text center wow fadeInUp">
                 <span class="heading-title bottom25">OUR CLIENTS AND PARTNERS</span>
-                <h2 class="darkcolor heading_space">We partner with brands of all sizes.</h2>
+                <h3 class="darkcolor heading_space">We partner with brands of all sizes.</h3>
             </div>  
         </div>
         
@@ -13,6 +13,8 @@
       <div class="slide"><img src="img/10.png"></div>
 	  <div class="slide"><img src="img/9.png"></div>
       <div class="slide"><img src="img/logo-delta.png"></div>
+      <div class="slide"><img src="img/3.jpg"></div>
+      <div class="slide"><img src="img/10.png"></div>
 
      
    </section>

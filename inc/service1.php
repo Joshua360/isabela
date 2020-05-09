@@ -9,7 +9,7 @@
                 <div class="intro-text center bottom15 wow fadeInUp">
                     <span class="heading-title bottom25">Meet Apex Digital</span>
                     <h2 class="darkcolor bottom45">WE  DEVELOP BRANDS ONLINE</h2>
-                    <p class="bottom45">We are all about continuosly providing our clients the best in class graphic design, fullstack web development and digital marketing solutions.</p>
+                    <h4 class="bottom45" style="font-size: 20px;line-height: 30px;">We are all about continuosly providing our clients the best in class graphic design, fullstack web development and digital marketing solutions.</h4>
                     
                     <!-- We are a digital marketing, graphics design and Web development and management agency based in Nairobi. Our team is a combination of skilled graphic designers, web developers, and digital marketers. -->
 
@@ -22,10 +22,10 @@
             <div class="col-md-4 col-sm-6">
                 <div class="floated-service equalheight top60 wow fadeInUp">
                     <!-- <i class="fa fa-paint-brush"></i> -->
-                    <div class="cell">
+                    <div class="cell" style="border-right:1px solid grey; padding-right:20px;">
                         <!-- <h4 class="darkcolor bottom10"><i class="fa fa-paint-brush"></i></h4> -->
                         <h4 class="darkcolor bottom10"><strong>GRAPHIC DESIGN</strong></h4>
-                        <p class="bottom25">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.</p>
+                        <p class="bottom25">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these by creating inspirational unique brands that satisfies the client and also attracts the target.</p>
                         <!-- Company profiles, brochures, business cards, logos, magazines, motion design -->
                         <a href="graphic-design.php" class="underlined">VIEW MORE</a>
                     </div>
@@ -34,7 +34,7 @@
             <div class="col-md-4 col-sm-6">
                 <div class="floated-service equalheight top60 wow fadeInUp">
                     <!-- <i class="fa fa-code"></i> -->
-                    <div class="cell">
+                    <div class="cell" style="border-right:1px solid grey; padding-right:20px;">
                         <h4 class="darkcolor bottom10"><strong> FULLSTACK WEB DEVELOPMENT</strong></h4>
                         <p class="bottom25"> We build high perfomance, scalable, responsive, content-rich web experiences with clear and easy to interact User interphase and a well planned User experience  </p>
                         <!-- with clear and easy to interact User interphase UI and a well planned User experience. -->

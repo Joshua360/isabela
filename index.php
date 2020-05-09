@@ -46,7 +46,8 @@
                <span class="heading-title bottom25">always behind the brands</span>
                <h2 class="whitecolor bottom45">Ready to get started with your project?</h2>
                <p class="whitecolor">We are ready and passionate about meeting your goals.</p>
-               <a href="request-a-quote.php" class="button default top50">GET A QUOTE</a>
+               <a href="request-a-quote.php" class="button whitehole">GET A QUOTE</a>
+
             </div>
          </div>
       </div>

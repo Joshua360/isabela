@@ -62,7 +62,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: Verdana,sans-serif;
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: #979797;
     overflow-x: hidden;
 }
@@ -125,7 +125,7 @@ h6{
 }
 
 p{
-    font-family: 'futuraPT Book';
+    font-family: 'Verdana';
 }
 .block{
     display: block;
@@ -767,7 +767,7 @@ ul.social.dark li a:focus{
    background: url(../images/bgintro-light.jpg) no-repeat;
 }
 .bgintro-five{
-   background: url(../images/bg-video-five.jpg) no-repeat;
+   background: url(../images/bg-video-five.png) no-repeat;
 }
 .bgintro-seven{
    background: url(../images/bgintro-seven.jpg) no-repeat;

@@ -46,7 +46,7 @@
 <?php include 'inc/three-service.php'?>
 
 <br><br>
-<h2 class=" text-capitalize bottom45" style="text-align:center;">Let's have a chat about your project</h2>
+<h3 class=" text-capitalize bottom45" style="text-align:center;">Let's have a chat about your project</h3>
 
 <?php include'inc/talk.php'?>
 
