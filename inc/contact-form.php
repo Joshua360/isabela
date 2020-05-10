@@ -2,7 +2,7 @@
    <div class="container">
      <div class="row">
         <div class="col-md-offset-2 col-md-8">
-           <form class="getin_form wow fadeInUp" action="https://formspree.io/moqkvdly" method="POST">
+           <form class="getin_form wow fadeInUp" id="my-form" action="https://formspree.io/moqkvdly" method="POST">
          <div class="row">
             <div class="col-md-12 col-sm-12">
                <div class="form-group bottom45">
@@ -11,21 +11,23 @@
             </div>
             <div class="col-md-12 col-sm-12">
                <div class="form-group bottom45">
-                  <input class="form-control" type="email" placeholder="Email" name="_replyto" required>
+                  <input class="form-control" type="email" name="email" placeholder="Email" name="_replyto" required>
                </div>
             </div>
             <div class="col-md-12 col-sm-12">
                <div class="form-group bottom45">
-                  <input class="form-control" type="text" placeholder="Company">
+                  <input class="form-control" type="text"placeholder="Company">
                </div>
             </div>
             <div class="col-md-12 col-sm-12">
                <div class="form-group bottom45">
-                  <textarea class="form-control" name="message" placeholder="A brief message"></textarea>
+                  <textarea class="form-control" type="text" name="message" placeholder="A brief message"></textarea>
                </div>
             </div>
             <div class="col-sm-12 text-center">
-               <button type="submit" class="button defaulthole">submit request</button>
+               <button id="my-form-button" class="button defaulthole">submit request</button>
+               <p id="my-form-status"></p>
+
             </div>
          </div>
       </form>

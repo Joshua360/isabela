@@ -53,14 +53,22 @@
 
 <!--Preloader-->
 <div class="loader">
-    <div class="loader-inner">
-        <div class="spinner-eff spinner-eff-4">
-            <div class="bar bar-top"></div>
-            <div class="bar bar-right"></div>
-            <div class="bar bar-bottom"></div>
-            <div class="bar bar-left"></div>
-        </div>
-    </div>
+<div class="loader-inner">
+						<div class="spinner">
+							<div class="spinner-container container1">
+								<div class="circle1"></div>
+								<div class="circle2"></div>
+								<div class="circle3"></div>
+								<div class="circle4"></div>
+							</div>
+							<div class="spinner-container container2">
+								<div class="circle1"></div>
+								<div class="circle2"></div>
+								<div class="circle3"></div>
+								<div class="circle4"></div>
+							</div>
+						</div>
+					</div>
 </div><!-- Preloader ends-->
 
 

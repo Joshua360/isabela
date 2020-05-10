@@ -58,7 +58,7 @@
                     </div>
                     <div class="service-content">
                         <h4  class="service-title">Web Development</h4>
-                       <p class="service-p">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these by creating inspirational unique brands that satisfies the client and also attracts the target.</p>
+                       <p class="service-p">We build high perfomance, scalable, responsive, content-rich web experiences with clear and easy to interact User interphase and a well planned User experience.<br><br><br></p>
                     </div>
                 </div>
 
@@ -72,7 +72,7 @@
                     </div>
                     <div class="service-content">
                         <h4 class="service-title">Digital Marketing</h4>
-                        <p class="service-p">We build high perfomance, scalable, responsive, content-rich web experiences with clear and easy to interact User interphase and a well planned user experience.<br><br></p>
+                        <p class="service-p">Here we focus on the component of marketing that utilizes internet and online based on digital technologies such as desktop computers, mobile phones and other digital madeia and platforms to promote products and services.<br><br></p>
                     </div>
                 </div>
 
@@ -86,7 +86,7 @@
                     </div>
                     <div class="service-content">
                         <h4 class="service-title">Graphics Design</h4>
-                       <p class="service-p">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.<br><br></p>
+                       <p class="service-p">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.<br><br><br></p>
                     </div>
                 </div>
 
