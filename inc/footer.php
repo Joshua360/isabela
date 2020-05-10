@@ -15,19 +15,19 @@
 <div class="widget no-box">
 <h5 class="widget-title">Important Links<span></span></h5>
 <ul class="thumbnail-widget">
-<li>
-<div class="thumb-content"><a href="services.php">what we do</a></div>	
-</li>
-<!-- <li>
-<div class="thumb-content"><a href="#.">Our People</a></div>	
-</li> -->
-<!-- <li>
-<div class="thumb-content"><a href="#.">Terms and Conditions</a></div>	
-</li> -->
-<li>
-<div class="thumb-content"><a href="ourgallery.php">Our Portfolio</a></div>	
-</li>
+   <li>
+         <div class="thumb-content"><a href="#.">About Us</a></div>	
+   </li>
+   <li>
+         <div class="thumb-content"><a href="services.php">What We Do</a></div>	
+   </li>
+   <li>
+         <div class="thumb-content"><a href="#.">Our Portfolio</a></div>	
+   </li>
 
+   <li>
+         <div class="thumb-content"><a href="ourgallery.php">Our Portfolio</a></div>	
+   </li>
 </ul>
 </div>
 </div>

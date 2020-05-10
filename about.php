@@ -31,7 +31,7 @@
             <div class="half-block padding_half equalheight center-block">
                <div class="intro-text wow fadeInLeft">
                   <span class="heading-title bottom25">Who We Are</span>
-                  <h2 class="darkcolor bottom45">Apex-digital is a graphics design comapany based In Nairobi. We also do web development and digital marketing.</h2>
+                  <h2 class="darkcolor bottom45">Apex-digital is a graphics design comapany based In Nairobi.</p> <p> We also do web development and digital marketing.</h2>
                   <p>We started as a mainstream graphic design organization doing static and motion art work and Prints. but due to the growing demand of marketing of the same products we extended our services to digital marketing and continuous customer relation i.e. monthly, quarterly and annually.</p>
               
                   <a class="button darkhole top40" href="apex/apexdigital-cp.pdf"  download="apexdigital company profile">Download company profile</a>
