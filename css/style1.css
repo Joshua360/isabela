@@ -14,59 +14,6 @@
 
 }
 
-/*-------------- 2. Preloader css starts ---------------*/
-/*
-.loader_bg {
-    position: fixed;
-    z-index: 9999999;
-    background: #fff;
-    width: 100%;
-    height: 100%;
-}
-
-.loader {
-    border: 0 solid transparent;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    position: absolute;
-    top: calc(50vh - 75px);
-    left: calc(50vw - 75px);
-}
-
-.loader:before, .loader:after {
-    content: '';
-    border: 1em solid orange;
-    border-radius: 50%;
-    width: inherit;
-    height: inherit;
-    position: absolute;
-    top: 0;
-    left: 0;
-    animation: loader 2s linear infinite;
-    opacity: 0;
-}
-
-.loader:before {
-    animation-delay: .5s;
-}
-
-@keyframes loader {
-    0% {
-        transform: scale(0);
-        opacity: 0; }
-    50% {
-        opacity: 1; }
-    100% {
-        transform: scale(1);
-        opacity: 0; }
-}
-*/
-
-/*---------- preloader css ends -------------*/
-
-
-
 
 
 /*------- 12. Testimonial area css starts --------*/
@@ -160,5 +107,124 @@
 
 /*------- testimonial area ends --------*/
 
-/*-------------13. Contact area starts -------------*/
+
+/*-------- 7. Services area starts ----------*/
+
+
+.services-area {
+    background: #f8f8f8;
+}
+.service {
+    text-align: center;
+}
+
+.service-box {
+    padding: 20px;
+    margin-bottom: 40px;
+    position: relative;
+    transition: .9s;
+}
+
+.service-icon i {
+    font-size: 50px;
+    color: orange;
+    margin-bottom: 20px;
+}
+
+.service-box:hover:after {
+    top: 0;
+    height: 100%;
+    transition: 0.9s;
+}
+
+.service-box:hover .after {
+    bottom: 0;
+    height: 100%;
+    transition: 0.9s;
+}
+
+.service-box:hover:before {
+    left: 0;
+    width: 100%;
+    transition: 0.9s;
+}
+
+.service-box:hover .before {
+    right: 0;
+    width: 100%;
+    transition: 0.9s;
+}
+
+.service-box:hover:before,
+.service-box:hover .before {
+    width: 100%;
+    transition: 0.9s;
+}
+
+.service-box:after {
+    height: 80%;
+    width: 2px;
+    content: '';
+    top: 10%;
+    left: 0px;
+    transition: 0.9s;
+}
+
+.service-box .before,
+.service-box .after,
+.service-box:before,
+.service-box:after {
+    background: #777;
+    position: absolute;
+    transition: 0.9s;
+}
+
+.service-box:before {
+    height: 2px;
+    width: 80%;
+    content: '';
+    top: 0px;
+    left: 10%;
+    transition: 0.9s;
+}
+
+.service-box .before {
+    height: 2px;
+    width: 80%;
+    bottom: 0px;
+    right: 10%;
+    transition: 0.9s;
+}
+
+.service-box .after {
+    height: 80%;
+    width: 2px;
+    bottom: 10%;
+    right: 0px;
+    transition: 0.9s;
+}
+
+/*-------- Services area ends ----------*/
+
+.skills-area .section-title h2{
+    color: #fff;
+}
+
+.overlay .overlay-inner h4 {
+    color: #ffffff !important;
+    margin-bottom: 0 !important;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    -webkit-transform: translateY(-30px);
+    -moz-transform: translateY(-30px);
+    -ms-transform: translateY(-30px);
+    -o-transform: translateY(-30px);
+    transform: translateY(-30px);
+    text-transform: uppercase;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
 

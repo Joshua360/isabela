@@ -53,6 +53,61 @@
       </div>
    </div>
 </section>
+
+
+<!--Counter white with bg-->
+<section id="bg-counter-dark" class="padding_top padding_bottom_half parallaxie">
+   <div class="container">
+      <div class="row counter-wrap text-center">
+         <div class="col-md-3 col-sm-6 col-xs-6">
+            <div class="counter-center  padding_bottom_half">
+               <i class="fa fa-cubes"></i>
+               <div class="number-counters bottom10 top15">
+                  <div class="counters">
+                     <span class="count_nums" data-to="39" data-speed="2500"> </span>
+                  </div>
+               </div>
+               <h6 class="text-uppercase bottom25">premium brands </h6>
+            </div>
+         </div>
+         <div class="col-md-3 col-sm-6 col-xs-6">
+            <div class="counter-center  padding_bottom_half">
+              <i class="fa fa-camera-retro"></i>
+               <div class="number-counters bottom10 top15">
+                  <div class="counters">
+                     <span class="count_nums" data-to="4" data-speed="2500"> </span>
+                  </div>
+               </div>
+               <h6 class="text-uppercase bottom25">Digital design Awards </h6>
+            </div>
+         </div>
+         <div class="col-md-3 col-sm-6 col-xs-6">
+            <div class="counter-center  padding_bottom_half">
+              <i class="fa fa-language"></i>
+               <div class="number-counters bottom10 top15">
+                  <div class="counters">
+                     <span class="count_nums" data-to="28" data-speed="2500"> </span>
+                  </div>
+               </div>
+               <h6 class="text-uppercase bottom25">creative conferences </h6>
+            </div>
+         </div>
+         <div class="col-md-3 col-sm-6 col-xs-6">
+            <div class="counter-center  padding_bottom_half">
+              <i class="fa fa-smile-o"></i>
+               <div class="number-counters bottom10 top15">
+                  <div class="counters">
+                     <span class="count_nums" data-to="103" data-speed="2500"> </span>
+                  </div>
+               </div>
+               <h6 class="text-uppercase bottom25">active clients </h6>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!--Counter Style 03 ends-->
+
 <!--Single intro ends-->
 <?php include'inc/testimonial1.php'?>
 

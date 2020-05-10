@@ -20,12 +20,12 @@
 
                         <div class="row">
                             <div class="col-md-8 col-xs-8">
-                                <h2>Kimathi</h2> 
-                                <h3>CEO, Seven Delta</h3> 
+                                <h2>Josephine Farve</h2> 
+                                <h3>CEO, The FARVE</h3> 
                             </div>
                             <div class="col-md-4 col-xs-4">
                                 <div class="testi-img">
-                                    <img src="images/testimonial/favicon.png" alt="testimonial image"> 
+                                    <img src="images/testimonial/AAVF.png" alt="testimonial image"> 
                                 </div>
                             </div>
                         </div>
@@ -40,12 +40,12 @@
 
                         <div class="row">
                             <div class="col-md-8 col-xs-8">
-                                <h2>Odongo</h2> 
+                                <h2> Sammy Odongo</h2> 
                                 <h3>CEO, Lamara Cleaning Services</h3> 
                             </div>
                             <div class="col-md-4 col-xs-4">
                                 <div class="testi-img">
-                                    <img src="images/testimonial/lamara-logo.jpeg" alt="testimonial image"> 
+                                    <img src="images/testimonial/lamara.jpeg" alt="testimonial image"> 
                                 </div>
                             </div>
                         </div>
@@ -60,12 +60,12 @@
 
                         <div class="row">
                             <div class="col-md-8 col-xs-8">
-                                <h2>Client Name</h2> 
+                                <h2>Jackson Oyango</h2> 
                                 <h3>Team Chevi</h3> 
                             </div>
                             <div class="col-md-4 col-xs-4">
                                 <div class="testi-img">
-                                    <img src="images/testimonial/Team-Chevi-done-1.jpg" alt="testimonial image"> 
+                                    <img src="images/testimonial/10.png" alt="testimonial image"> 
                                 </div>
                             </div>
                         </div>
@@ -80,11 +80,11 @@
 
                         <div class="row">
                             <div class="col-md-8 col-xs-8">
-                                <h2>Client Name</h2> 
+                                <h2>Betty Nekesa</h2> 
                                 <h3>Nuru, Africa</h3> 
                             <div class="col-md-4">
                                 <div class="testi-img">
-                                    <img src="logos/Nuru AFrica 2.png" alt=""> 
+                                    <img src="images/testimonial/nuru.png" alt=""> 
                                 </div>
                             </div>
                         </div>

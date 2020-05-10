@@ -1,4 +1,26 @@
+<style>
+    .service-title{
+    color: #333333;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 
+.service-p{
+    letter-spacing: 0;
+    line-height: 1.8;
+    margin: 0 0 10px;
+
+
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+</style>
 
 <!--Services 3 column-->
 <section id="services-three" class="padding bglight">
@@ -18,41 +40,65 @@
             </div>
             <div class="col-md-2 col-sm-1"></div>
         </div>
+        <div class="services-area section-padding" id="services">
+    <div class="container">
         <div class="row">
-            <div class="col-md-4 col-sm-6">
-                <div class="floated-service equalheight top60 wow fadeInUp">
-                    <!-- <i class="fa fa-paint-brush"></i> -->
-                    <div class="cell" style="border-right:1px solid grey; padding-right:20px;">
-                        <!-- <h4 class="darkcolor bottom10"><i class="fa fa-paint-brush"></i></h4> -->
-                        <h4 class="darkcolor bottom10"><strong>GRAPHIC DESIGN</strong></h4>
-                        <p class="bottom25">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these by creating inspirational unique brands that satisfies the client and also attracts the target.</p>
-                        <!-- Company profiles, brochures, business cards, logos, magazines, motion design -->
-                        <a href="graphic-design.php" class="underlined">VIEW MORE</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <div class="floated-service equalheight top60 wow fadeInUp">
-                    <!-- <i class="fa fa-code"></i> -->
-                    <div class="cell" style="border-right:1px solid grey; padding-right:20px;">
-                        <h4 class="darkcolor bottom10"><strong> FULLSTACK WEB DEVELOPMENT</strong></h4>
-                        <p class="bottom25"> We build high perfomance, scalable, responsive, content-rich web experiences with clear and easy to interact User interphase and a well planned User experience  </p>
-                        <!-- with clear and easy to interact User interphase UI and a well planned User experience. -->
-                        <a href="web-development.php" class="underlined">VIEW MORE</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <div class="floated-service equalheight top60 wow fadeInUp">
-                    <!-- <i class="fa fa-bullhorn"></i> -->
-                    <div class="cell">
-                        <h4 class="darkcolor bottom10"><strong>DIGITAL MARKETING</strong></h4>
-                        <p class="bottom25">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.
-                        </p>
-                        <a href="digital-marketing.php" class="underlined">VIEW MORE</a>
-                    </div>
-                </div>
+            <div class="section-title">
+                <h2>Our<span> Services</span></h2>
             </div>
         </div>
+        <div class="row">
+
+            <div class="col-md-4 col-sm-6 service">
+                <div class="service-box">
+                    <span class="after"></span>
+                    <span class="before"></span>
+                    <div class="service-icon">
+                    <i class="fas fa-laptop-code"></i>
+                    </div>
+                    <div class="service-content">
+                        <h4  class="service-title">Web Development</h4>
+                       <p class="service-p">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these by creating inspirational unique brands that satisfies the client and also attracts the target.</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4 col-sm-6 service">
+                <div class="service-box">
+                    <span class="after"></span>
+                    <span class="before"></span>
+                    <div class="service-icon">
+                    <i class="fas fa-mail-bulk"></i>
+                    </div>
+                    <div class="service-content">
+                        <h4 class="service-title">Digital Marketing</h4>
+                        <p class="service-p">We build high perfomance, scalable, responsive, content-rich web experiences with clear and easy to interact User interphase and a well planned user experience.<br><br></p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-4 col-sm-6 service">
+                <div class="service-box">
+                    <span class="after"></span>
+                    <span class="before"></span>
+                    <div class="service-icon">
+                    <i class="fas fa-palette"></i>
+                    </div>
+                    <div class="service-content">
+                        <h4 class="service-title">Graphics Design</h4>
+                       <p class="service-p">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.<br><br></p>
+                    </div>
+                </div>
+
+            </div>
+           
+            
+
+        </div>
+    </div>
+</div>
+
+<!--Services area ends-->
+
     </div>
 </section>

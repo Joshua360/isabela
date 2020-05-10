@@ -7,10 +7,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <title>Apex Digital Graphics Design and Digital Marketing</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://use.fontawesome.com/90588841da.js"></script>
 <script src="https://kit.fontawesome.com/b0f7600cd1.js" crossorigin="anonymous"></script>
 
 
 <link rel="stylesheet" href="css/owls/owl.carousel.css">
+
 <link rel="stylesheet" href="css/style1.css">
 <link rel="stylesheet" href="css/responsive.css">
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
@@ -42,14 +45,27 @@
    })();
    </script>
    <!--End of Tawk.to Script-->
+
+   <link rel="stylesheet" href="css/line-icons.min.css">
+
 </head>
 <body>
 
-
-
 <!--Preloader-->
-<!-- <div class="loader_bg"><div class="loader"></div></div> -->
-<!-- Preloader ends-->
+<div class="loader">
+    <div class="loader-inner">
+        <div class="spinner-eff spinner-eff-4">
+            <div class="bar bar-top"></div>
+            <div class="bar bar-right"></div>
+            <div class="bar bar-bottom"></div>
+            <div class="bar bar-left"></div>
+        </div>
+    </div>
+</div><!-- Preloader ends-->
+
+
+
+
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-93b824e8-45cd-4168-8407-4efd71818966"></div>
 <div class="wrapper">
