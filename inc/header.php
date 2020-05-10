@@ -8,6 +8,12 @@
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <title>Apex Digital Graphics Design and Digital Marketing</title>
 <script src="https://kit.fontawesome.com/b0f7600cd1.js" crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="css/owls/owl.carousel.css">
+<link rel="stylesheet" href="css/style1.css">
+<link rel="stylesheet" href="css/responsive.css">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 <!-- main styling file  -->
 <!-- 
 <link rel="stylesheet" href="css/owl.carousel.css">
@@ -42,7 +48,7 @@
 
 
 <!--Preloader-->
-<div class="loader_bg"><div class="loader"></div></div>
+<!-- <div class="loader_bg"><div class="loader"></div></div> -->
 <!-- Preloader ends-->
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-93b824e8-45cd-4168-8407-4efd71818966"></div>

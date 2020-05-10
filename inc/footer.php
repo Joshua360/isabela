@@ -74,6 +74,7 @@ echo $year;?> All rights reserved.</p>
 
 </div>
 
+<?php include 'inc/client-slider-scripts.php'; ?>
 
 <!-- jQuery Files -->
 <script src="js/bootstrap.min.js"></script>
@@ -122,12 +123,13 @@ echo $year;?> All rights reserved.</p>
 
 <!-- WOW Transitions -->
 <script src="js/wow.min.js"></script>
+
     
 <!--Revolution SLider-->
-<script src="js/revolution/jquery.themepunch.tools.min.js"></script>
-<script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
+<!-- <script src="js/revolution/jquery.themepunch.tools.min.js"></script>
+<script src="js/revolution/jquery.themepunch.revolution.min.js"></script> -->
 <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-<script src="js/revolution/extensions/revolution.extension.actions.min.js"></script>
+<!-- <script src="js/revolution/extensions/revolution.extension.actions.min.js"></script>
 <script src="js/revolution/extensions/revolution.extension.carousel.min.js"></script>
 <script src="js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
 <script src="js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
@@ -135,21 +137,18 @@ echo $year;?> All rights reserved.</p>
 <script src="js/revolution/extensions/revolution.extension.navigation.min.js"></script>
 <script src="js/revolution/extensions/revolution.extension.parallax.min.js"></script>
 <script src="js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
+<script src="js/revolution/extensions/revolution.extension.video.min.js"></script> -->
    
 
 <!--Synx scripts-->
 <script src="js/functions.js"></script>
     
 <!--Google map API-->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyAOBKD6V47-g_3opmidcmFapb3kSNAR70U"></script>
+<!-- <script src="http://maps.google.com/maps/api/js?key=AIzaSyAOBKD6V47-g_3opmidcmFapb3kSNAR70U"></script>
 <script src="js/map.js"></script>
+ -->
 
 
-
-
-<!--Owl Carousel js-->
-<script src="ks/owl.carousel.js"></script>
 
 <!--Main js-->
 <script src="js/main.js"></script>

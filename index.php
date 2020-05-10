@@ -54,7 +54,7 @@
    </div>
 </section>
 <!--Single intro ends-->
-<?php include'inc/testimonials.php'?>
+<?php include'inc/testimonial1.php'?>
 
 
 
