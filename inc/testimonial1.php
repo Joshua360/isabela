@@ -60,12 +60,12 @@
 
                         <div class="row">
                             <div class="col-md-8 col-xs-8">
-                                <h2>Jackson Oyango</h2> 
-                                <h3>Team Chevi</h3> 
+                                <h2>Kimathi Githachuri</h2> 
+                                <h3>Seven-Delta</h3> 
                             </div>
                             <div class="col-md-4 col-xs-4">
                                 <div class="testi-img">
-                                    <img src="images/testimonial/10.png" alt="testimonial image"> 
+                                    <img src="images/testimonial/v-logo.jpeg" alt="testimonial image"> 
                                 </div>
                             </div>
                         </div>
@@ -80,7 +80,7 @@
 
                         <div class="row">
                             <div class="col-md-8 col-xs-8">
-                                <h2>Betty Nekesa</h2> 
+                                <h2>Emmah A.</h2> 
                                 <h3>Nuru, Africa</h3> 
                             <div class="col-md-4">
                                 <div class="testi-img">

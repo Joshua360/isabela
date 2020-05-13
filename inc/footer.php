@@ -13,20 +13,23 @@
 
 <div class="col-xs-12 col-sm-6 col-md-3">
 <div class="widget no-box">
-<h5 class="widget-title">Important Links<span></span></h5>
+<h5 class="widget-title">Menus<span></span></h5>
 <ul class="thumbnail-widget">
    <li>
-         <div class="thumb-content"><a href="#.">About Us</a></div>	
+         <div class="thumb-content"><a href="#.">Home</a></div>	
    </li>
    <li>
-         <div class="thumb-content"><a href="services.php">What We Do</a></div>	
+         <div class="thumb-content"><a href="services.php">About Us</a></div>	
    </li>
    <li>
-         <div class="thumb-content"><a href="#.">Our Portfolio</a></div>	
+         <div class="thumb-content"><a href="#.">Services</a></div>	
    </li>
 
    <li>
-         <div class="thumb-content"><a href="ourgallery.php">Our Portfolio</a></div>	
+         <div class="thumb-content"><a href="ourgallery.php">Portfolio</a></div>	
+   </li>
+   <li>
+         <div class="thumb-content"><a href="ourgallery.php">Contact Us</a></div>	
    </li>
 </ul>
 </div>

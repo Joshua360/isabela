@@ -84,6 +84,7 @@
       <div class="container">
          <div class="row">
             <div class="col-md-12">
+               
                <nav class="navbar navbar-default">
                   <div class="navbar-header">
                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fixed-collapse-navbar" aria-expanded="true"> 
@@ -115,8 +116,12 @@
                            <!-- <li><a href="#ourinfo" class="scrollings">Blog</a></li> -->
                            <li><a class="scrollings" href="ourgallery.php">Our Portfolio</a></li>
                            <li><a class="scrollings" href="contact.php">Contact Us</a></li>
-                           <li><a href="request-a-quote.php" class="scrollings">Request a Quote</a></li>
+                           <li><a href="request-a-quote.php" class="">Request a Quote</a></li>
+                           <!-- <a href="#services-three" class="button default scroll">Request a Quote</a> -->
+                           
                         </ul>
+                        <ul>
+                    
                      </div>
                   </div>
                </nav>

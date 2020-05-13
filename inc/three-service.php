@@ -6,7 +6,7 @@
                <h3 class="bottom10">
                   <a style="color:black;" data-fancybox="group-three" href="graphic-design.php">Graphic <strong>Design</strong></a>
                </h3>
-               <p style="color:black;">We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.</p>
+               <p style="color:black;">We help our clients increase their business profitability by modeling their brands into unique, aesthetic and quality designs.</p>
                <a class="button darkhole top40" href="graphic-design.php">View More</a>
             </div>
          </div>
@@ -30,7 +30,7 @@
                <h3 class="bottom10">
                   <a data-fancybox="group-two" href="web-development.php"> Web <strong>Development</strong></a>
                </h3>
-               <p>We design and develop responsive websites with clear and easy to interact User interphase UI and a well planned User experience.</p>
+               <p>We build high perfomance, scalable, responsive, content-rich web experiences with clear and easy to interact User interphase and a well planned User experience.</p>
                <a class="button whitehole top40"  href="web-development.php">View More</a>
             </div>
          </div>
@@ -52,7 +52,7 @@
                <h3 class="bottom10">
                   <a data-fancybox="group-three" href="digital-marketing.php">Digital <strong>Marketing</strong></a>
                </h3>
-               <p>Here we focus on the component of marketing that utilizes internet and online based on digital technologies such as desktop computers, mobile phones and other digital madeia and platforms to promote products and services.</p>
+               <p>We focus on the component of marketing that utilizes internet based on digital technologies such as social media, SEO, google adsense and other digital and affiliate marketing.</p>
                <!-- <p>We help our clients increase their business profitability by taking their products to the potential buyers. We do all these through social media marketing.</p> -->
                <a class="button whitehole top40"href="digital-marketing.php">View More</a>
             </div>

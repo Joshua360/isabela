@@ -12,8 +12,7 @@
       <div class="slide"><img src="img/3.jpg"></div>
       <div class="slide"><img src="img/10.png"></div>
 	  <div class="slide"><img src="img/9.png"></div>
-      <div class="slide"><img src="img/logo-delta.png"></div>
-      <div class="slide"><img src="img/3.jpg"></div>
+      <div class="slide"><img src="img/v-logo.jpeg"></div>
       <div class="slide"><img src="img/10.png"></div>
 
      

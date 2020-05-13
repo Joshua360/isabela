@@ -15,7 +15,7 @@
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top50 wow fadeInUp">
                <i class="fa fa-paint-brush"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Static design</a></h4>
+               <h4 class="text-capitalize darkcolor bottom10 service-title"><a href="javascript:void(0)">Static design</a></h4>
                <hr>
                <p class="no_bottom">We have a well tested and proven personnel in this field we deliver the latest graphic design work and we do it with passion. We make: </p>
                <ul>
@@ -37,7 +37,7 @@
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top50 wow fadeInUp">
                <i class="fa fa-copyright"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Logo design
+               <h4 class="text-capitalize darkcolor bottom10 service-title"><a href="javascript:void(0)">Logo design
 
             </a></h4>
                <hr>
@@ -53,14 +53,15 @@
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top50 wow fadeInUp">
                <i class="fa fa-video-camera"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Motion graphics</a></h4>
+               <h4 class="text-capitalize darkcolor bottom10 service-title"><a href="javascript:void(0)">Motion graphics</a></h4>
                <hr>
                <p class="no_bottom">On motion graphics design.</p>
                <ul>
-                  <li>Screen priting</li>
-                  <li>Digital printing</li>
-                  <li>Offset printing </li>
-                  <li>Baner printing</li>
+                  
+
+                  <li> short marketing videos</li>
+                  <li> Video editing</li>
+                  <li> Logo Motion graphics </li>
                  
                </ul>
             </div>
@@ -68,14 +69,15 @@
          <div class="col-md-4 col-sm-6">
             <div class="icon_box equalheight top50 wow fadeInUp">
                <i class="fa fa-print"></i>
-               <h4 class="text-capitalize darkcolor bottom10"><a href="javascript:void(0)">Printing</a></h4>
+               <h4 class="text-capitalize darkcolor bottom10 service-title" ><a href="javascript:void(0)">Printing</a></h4>
                <hr>
                <p class="no_bottom">We don’t just stop at design, we deliver the whole work if the client wishes so.We offer quality printing services eg:</p>
                <ul>
-                  <li> short marketing videos</li>
-                  <li> Video editing</li>
-                  <li> Logo Motion graphics </li>
-                 
+                  
+                  <li>Screen priting</li>
+                  <li>Digital printing</li>
+                  <li>Offset printing </li>
+                  <li>Baner printing</li>
                </ul>
             </div>
          </div>

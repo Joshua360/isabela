@@ -49,6 +49,22 @@
         </div>
         <div class="row">
 
+
+                    
+        <div class="col-md-4 col-sm-6 service">
+                <div class="service-box">
+                    <span class="after"></span>
+                    <span class="before"></span>
+                    <div class="service-icon">
+                    <i class="fas fa-palette"></i>
+                    </div>
+                    <div class="service-content">
+                        <h4 class="service-title">Graphics Design</h4>
+                       <p class="service-p">We help our clients increase their business profitability by modeling their brands into unique, aesthetic and quality designs.<br><br><br></p>
+                    </div>
+                </div>
+            </div>
+
             <div class="col-md-4 col-sm-6 service">
                 <div class="service-box">
                     <span class="after"></span>
@@ -58,11 +74,13 @@
                     </div>
                     <div class="service-content">
                         <h4  class="service-title">Web Development</h4>
-                       <p class="service-p">We build high perfomance, scalable, responsive, content-rich web experiences with clear and easy to interact User interphase and a well planned User experience.<br><br><br></p>
+                       <p class="service-p">We build high perfomance, scalable, responsive, content-rich web experiences with clear and easy to interact User interphase and a well planned User experience.<br><br></p>
                     </div>
                 </div>
 
             </div>
+
+           
             <div class="col-md-4 col-sm-6 service">
                 <div class="service-box">
                     <span class="after"></span>
@@ -75,23 +93,7 @@
                         <p class="service-p">We focus on the component of marketing that utilizes internet based on digital technologies such as social media, SEO, google adsense and other digital and affiliate marketing.<br><br></p>
                     </div>
                 </div>
-
             </div>
-            <div class="col-md-4 col-sm-6 service">
-                <div class="service-box">
-                    <span class="after"></span>
-                    <span class="before"></span>
-                    <div class="service-icon">
-                    <i class="fas fa-palette"></i>
-                    </div>
-                    <div class="service-content">
-                        <h4 class="service-title">Graphics Design</h4>
-                       <p class="service-p">We help our clients increase their business profitability by modeling their brands into unique, aesthetic and quality designs.<br><br><br></p>
-                    </div>
-                </div>
-
-            </div>
-           
             
 
         </div>

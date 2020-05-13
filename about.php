@@ -31,30 +31,20 @@
             <div class="half-block padding_half equalheight center-block">
                <div class="intro-text wow fadeInLeft">
                   <span class="heading-title bottom25">Who We Are</span>
-                  <h2 class="darkcolor bottom45">Apex-digital is a graphics design comapany based In Nairobi.</p> <p> We also do web development and digital marketing.</h2>
+                  <p class="darkcolor bottom45">Apex-digital is a digital agency providing services under graphic design, web design and development and digital marketing.</p>
                   <p>We started as a mainstream graphic design organization doing static and motion art work and Prints. but due to the growing demand of marketing of the same products we extended our services to digital marketing and continuous customer relation i.e. monthly, quarterly and annually.</p>
               
-                  <a class="button darkhole top40" href="apex/apexdigital-cp.pdf"  download="apexdigital company profile">Download company profile</a>
+                  <a class="button darkhole top40" href="apex/apexdigital-cp.pdf" target="_blank">View company profile</a>
                
                   
 
 
                   <div class="bars-custom top50">
                      <div class="barwrapper">
-                        <!-- <span class="progressText">Coding</span>
-                        <div class="progress">
-                           <div class="progress-bar" role="progressbar" aria-valuenow="79" aria-valuemin="0" aria-valuemax="100">
-                              <span class="popOver" data-toggle="tooltip" data-placement="top" title="79%"> </span>
-                           </div>
-                        </div> -->
+
                      </div>
                      <div class="barwrapper">
-                        <!-- <span class="progressText">Accuracy</span>
-                        <div class="progress">
-                           <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="10" aria-valuemax="100" style="">
-                              <span class="popOver" data-toggle="tooltip" data-placement="top" title="95%"> </span>
-                           </div>
-                        </div> -->
+
                      </div>
                      
                   </div>
@@ -78,7 +68,6 @@
    </div>
 </section>
 <!--Half image blocks 01 ends-->
-
 
 <!--Services 6 column-->
 <section id="services" class="padding">
@@ -116,20 +105,10 @@
                    <p>We stand out with our mobility i.e we are able to sort our customers virtually without having to meet them. Just contact us and we will sort you.Our prices are negotiable and they for sure match the quality.</p>
                    <div class="bars-custom top50">
                       <div class="barwrapper">
-                         <!-- <span class="progressText">Coding</span>
-                         <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="79" aria-valuemin="0" aria-valuemax="100">
-                               <span class="popOver" data-toggle="tooltip" data-placement="top" title="79%"> </span>
-                            </div>
-                         </div> -->
+
                       </div>
                       <div class="barwrapper">
-                         <!-- <span class="progressText">Accuracy</span>
-                         <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="10" aria-valuemax="100" style="">
-                               <span class="popOver" data-toggle="tooltip" data-placement="top" title="95%"> </span>
-                            </div>
-                         </div> -->
+
                       </div>
                       
                    </div>
@@ -182,7 +161,7 @@
             <div class="counter-center center padding_bottom_half wow fadeInUp">
                <div class="number-counters bottom10">
                   <div class="counters">
-                     <span class="count_nums" data-to="17" data-speed="2500"> </span>
+                     <span class="count_nums" data-to="43" data-speed="2500"> </span>
                   </div>
                </div>
                <h6 class="text-uppercase bottom25">active clients </h6>

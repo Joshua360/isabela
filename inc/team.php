@@ -23,8 +23,8 @@
                <ul class="social">
                   <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
                   <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
+                  <!-- <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li> -->
+                  <!-- <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li> -->
                </ul>
             </div>
          </div>
@@ -39,7 +39,7 @@
                   <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
                   <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
                   <li><a href="javascript:void(0)"><i class="fa fa-behance"></i> </a> </li>
-                  <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li>
+                  <!-- <li><a href="javascript:void(0)"><i class="fa fa-dribbble"></i> </a> </li> -->
                </ul>
             </div>
          </div>
@@ -53,7 +53,7 @@
                <h3 class="darkcolor">Joshua Owuor</h3>
                <span class="accupation bottom35">Fullstack web developer</span>
                <ul class="social">
-                  <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
+                  <!-- <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li> -->
                   <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
                   <li><a href="javascript:void(0)"><i class="fa fa-linkedin"></i> </a> </li>
                </ul>

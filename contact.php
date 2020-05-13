@@ -51,10 +51,10 @@
                            <p><a href="mailto:apexgdd@gmail.com">apexgdd@gmail.com</a></p>
                            <p>Mon-Fri: 9am-5pm</p>
                            <ul class="social top50">
-                              <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-instagram"></i> </a> </li>
-                              <li><a href="javascript:void(0)"><i class="fa fa-linkedin"></i> </a> </li>
+                              <li><a href="https://www.facebook.com/ApexGdd/"><i class="fa fa-facebook"></i> </a> </li>
+                              <li><a href="https://twitter.com/Apex_GraphicsKe?s=09"><i class="fa fa-twitter"></i> </a> </li>
+                              <li><a href="https://www.instagram.com/invites/contact/?i=9j8k3jzv8hnc&utm_content=egpjgf7"><i class="fa fa-instagram"></i> </a> </li>
+                              <li><a href="https://www.linkedin.com/company/apex-graphics-ke"><i class="fa fa-linkedin"></i> </a> </li>
                            </ul>
                         </div>                      
                      </div>
@@ -70,7 +70,7 @@
 
 
 <!--Contact form-->
-<h3 class=" text-capitalize bottom45" style="text-align:center;">Tell us about your project</h3>
+<h3 class=" text-capitalize bottom45" style="text-align:center;">Talk to Us</h3>
 
 <?php include 'inc/contact-form.php'?>
 <!--Contact form ends-->

@@ -8,10 +8,10 @@
             <div class="col-md-12">
                <ul class="top-right text-right">
                   <li><a href="https://www.facebook.com/ApexGdd/" target="_blank" class="facebook"><i class="fa fa-phone"></i></a></li>
-                  <!-- <li><a href="https://twitter.com/Apex_GraphicsKe?s=09" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a></li>
+                  <li><a href="https://twitter.com/Apex_GraphicsKe?s=09" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a></li>
                   <li><a href="https://www.instagram.com/invites/contact/?i=9j8k3jzv8hnc&utm_content=egpjgf7" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a></li>
 
-                  <li><a href="https://www.linkedin.com/company/apex-graphics-ke" target="_blank" class="linkedin"><i class="fa fa-linkedin"></i></a></li> -->
+                  <li><a href="https://www.linkedin.com/company/apex-graphics-ke" target="_blank" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
                </ul>
                <nav class="navbar navbar-default">
                   <div class="navbar-header">

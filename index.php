@@ -1,7 +1,7 @@
 <?php include 'inc/header.php'?>
 <!-- Main-Navigation ends -->
 
-   
+
 <!--Ful Screen Section Video with caption-->
 <section class="full-screen caption-video caption-video-five parallaxie" id="ourhome">
    <div class="container">
@@ -16,7 +16,7 @@
 
                   <p class="bottom45" style="color:white;">PLAY VIDEO TO SEE WHAT WE DO</p>
 
-                     <a href="images/video.m4v" class="video-btn html5lightbox"><i class="fa fa-play"></i></a>
+                     <a href="https://player.vimeo.com/video/417907464" class="video-btn html5lightbox"><i class="fa fa-play"></i></a>
                   </div>
                   <div class="wow fadeInUp">
                      <h2 class="text-capitalize top50 bottom35  whitecolor">We help businesses launch iconic brands online</span></h2>
@@ -45,7 +45,7 @@
             <div class="intro-text text-right wow fadeInRight">
                <span class="heading-title bottom25">always behind the brands</span>
                <h2 class="whitecolor bottom45">Ready to get started with your project?</h2>
-               <p class="whitecolor">We are ready and passionate about meeting your goals.</p>
+               <p class="whitecolor">We are passionate about meeting your goals.</p>
                <a href="request-a-quote.php" class="button whitehole">GET A QUOTE</a>
 
             </div>
@@ -97,7 +97,7 @@
               <i class="fa fa-smile-o"></i>
                <div class="number-counters bottom10 top15">
                   <div class="counters">
-                     <span class="count_nums" data-to="103" data-speed="2500"> </span>
+                     <span class="count_nums" data-to="43" data-speed="2500"> </span>
                   </div>
                </div>
                <h6 class="text-uppercase bottom25">active clients </h6>

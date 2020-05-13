@@ -46,8 +46,9 @@
                         <span>Websites</span>
                     </div>
                     <div data-filter=".brand" class="cbp-filter-item">
-                        <span>Business Cards</span>
+                        <span>Corporate</span>
                     </div>
+                   
                 </div>
          </div>
          <div class="col-md-3 col-sm-2"> </div>
@@ -138,7 +139,35 @@
                   <li><a data-fancybox="gallery" href="portfolio/card-3.jpg"><i class="fa fa-search-plus"></i></a></li>
                   <li><a href="#"><i class="fa fa-external-link"></i></a></li>
                </ul>
-               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/card-3.jpg">Poster</a></h3>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/card-3.jpg">Business Card</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+         <div class="cbp-item brand">
+            <div class="image">
+               <img alt="image" src="portfolio/book-2.jpg">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/book-2.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/book-2.jpg">Company Profile</a></h3>
+               <p>printing industry</p>
+            </div>
+         </div>
+
+         <div class="cbp-item brand">
+            <div class="image">
+               <img alt="image" src="portfolio/book-1.jpg">
+            </div>
+            <div class="overlay center-block whitecolor">
+               <ul class="social white bottom40">
+                  <li><a data-fancybox="gallery" href="portfolio/book-1.jpg"><i class="fa fa-search-plus"></i></a></li>
+                  <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+               </ul>
+               <h3 class="bottom15"><a data-fancybox="gallery" href="portfolio/book-1.jpg">Company Profile</a></h3>
                <p>printing industry</p>
             </div>
          </div>
